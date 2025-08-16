@@ -16,10 +16,12 @@ See below short descriptions for the respective CISA modules and courses:
 #210W-07, ICS cybersecurity vulnerabilities - Highlighting how many ICS vulnerabilities are somehow related to availability prioritization.
 #210W-08, ICS cybersecurity consequences - How failure of equipment, bad processes, people issues may lead to consequences.
 #210W-09, Attack methodologies in IT and ICS - Basic overview of the steps of how an attack occurs - some differences between how attacks against ICS and IT occur.
-#210W-10 and 210W-11, Mapping IT DoD to ICS 1&2 - basic overview of how to apply security measures common for IT, in OT environments. Purdue model intro.    
+#210W-10 and 210W-11, Mapping IT DoD to ICS 1&2 - basic overview of how to apply security measures common for IT, in OT environments. Purdue model intro.  
 
-#Industrial Control System Cybersecurity Training(ICS300) - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.   
-Some topics that I found valuable:  
+
+#Industrial Control System Cybersecurity Training(ICS300) - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.
+
+Some topics that I found valuable among the CISA material:  
 #All ICS devices are not able to handle unexpected packets. This may lead to issues during scans.  
 #When using tools, check how they can be used to minimize unnecessary network traffic. For example, disable NameResolution when running ARP("arp -a -i eth0 -n").  
 #A line of PLC code is called a "Rung", and a full program execution a "Scan" and occur multiple times per second.  
@@ -33,5 +35,8 @@ Some topics that I found valuable:
 #Exclusion lists are valuable when scanning, to minimize the risk that particular devices are affected.  
 #The openPLC project provides virtualized PLCs(https://openplcproject.com/getting-started/)  
 #IEC 61131 contains info about various PLC programming languages, which may be valuable for labs.  
+#Deterministic traffic - repeatable, predictable, and designed so that fluctuations are easily detected.  
+#Issues with legacy systems include: weak/no auth; plain text traffic; no least priv; no integrity checks; easy connectivity.  
+#It is vital to understand how security requirements differ between ICS sectors, and what kinds of interdependencies that exist.
   
 #Industrial Control Systems Evaluation(401V) - 
