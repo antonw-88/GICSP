@@ -1,6 +1,7 @@
 # GICSP
 
 This repo is a self-study guide for the GICSP(Industrial Cyber Security Certification).
+NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affects its relevance for individuals with other backgrounds.
 
 The motivation for the repo was that I couldn't find a fully comprehensive and we structured self-study guide for the GICSP. While a well reputed SANS course exists, it is very expensive. Since I find both OT, the intersection of IT/OT, and security interesting, I decided to create a guide myself. I've also wanted to give back to the opensource community for a long time, and this feels like a hopefully good way to do so. I would like to give special thanks to Manjunath Hiregange, whose Youtube video "How to Prepare for GICSP Certification Without SANS Training" provided a very good initial overview of where to find relevant resources and how to think about the process. Usman Shahzad's Linkedin post regarding his self studies, was also very helpful(https://www.linkedin.com/pulse/my-journey-achieving-gicsp-certification-through-usman-das9f). I would recommend to give both a look. Finally, significant use of ChatGPT was made during the initial phase; to understand the exam itself, identify related critical concepts, and to gather reference material. 
 
