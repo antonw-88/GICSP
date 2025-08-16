@@ -22,4 +22,6 @@ Finally, I found this blogpost to be a good introduction to the certification pr
 Core Resources:
 Specifika böcker/dokument/youtube-kanaler/websidor. Övergripande högkvalitative resurser.
 
-#Step 1 - Initial Overview of Available Material, and CISA training resources. 
+#Step 1 - Initial Overview of Available Material, and CISA training resources. Goal being to understand what OT systems are, major related components/concepts, and how OT differs from IT.
+
+#Step 2 - Overview of available resources for more in-depth understanding when needed.
