@@ -18,8 +18,17 @@ See below short descriptions for the respective CISA modules and courses:
 #210W-09, Attack methodologies in IT and ICS - Basic overview of the steps of how an attack occurs - some differences between how attacks against ICS and IT occur.
 #210W-10 and 210W-11, Mapping IT DoD to ICS 1&2 - basic overview of how to apply security measures common for IT, in OT environments. Purdue model intro.    
 
-#Industrial Control System Cybersecurity Training(ICS300) - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.  
+#Industrial Control System Cybersecurity Training(ICS300) - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.   
 Some topics that I found valuable:  
 #All ICS devices are not able to handle unexpected packets. This may lead to issues during scans.  
 #When using tools, check how they can be used to minimize unnecessary network traffic. For example, disable NameResolution when running ARP("arp -a -i eth0 -n").  
-#A line of PLC code is called a "Rung", and a full program execution a "Scan".  
+#A line of PLC code is called a "Rung", and a full program execution a "Scan" and occur multiple times per second.  
+#After initiating tcpdump/windump as an Admin, the process should be forwarded to a regular user as part of zero-trust mentality.  
+#Capture traffic with tcpdump, and analyze it with Wireshark. This optimizes resource usage.  
+#Nmap with the "--reason" flag provides insight into how the program reached various conclusions.  
+#Zero-trust is a very extensive concept, not only concering topics such as for example AAA or security zones, but also having an IDS to scan OT traffic to ensure that no unexpected traffic is present.  
+#NMAP flags that start with -P are likely related to host discovery, while -s is most likely a port scan.  
+#NMAP can run syn/ack scans that only send the initial syn, if run with root permissions(-sS). In OT-nets, the non-priv connection scan(-sT) should be used to avoid hanging connections. Also avoid OS and Version detection scans in OT nets.  
+#Exclusion lists are valuable when scanning, to minimize the risk that particular devices are affected.  
+#The openPLC project provides virtualized PLCs(https://openplcproject.com/getting-started/)  
+#IEC 61131 contains info about various PLC programming languages, which may be valuable for labs.  
