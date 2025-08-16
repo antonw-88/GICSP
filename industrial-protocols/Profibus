@@ -1,0 +1,7 @@
+#smart fieldbus tech  
+#Highspeed serial I/O  
+#Devices connect to a central line.  
+#Self diagnosis and connection diagnosis of devices.  
+#Master/slave  
+#Three types -> FMS(data acquisition), DP(fast commes to operate sensors/actuators via central controller), PA(safe devices and comms).  
+#It is very easy to connect all three versions together on the same system because the main difference between the versions is the physical layer.   
