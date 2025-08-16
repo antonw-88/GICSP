@@ -2,7 +2,7 @@ For the initial stage, many recommended the CISA VLP learning platform's CSI mod
 they did provide a good overview of many concepts, terms. The platform's contents also described well the reasons for many contemporary ICS security issues etc.  
 Additionally, the courses contained multiple labs, and provided a good understanding of what kinds of tools that are of value when working with ICS security.  
   
-You can register on the CISA VLP via this link: https://ics-training.inl.gov/learn  
+You can register on the CISA VLP via this link(American Citizenship not required): https://ics-training.inl.gov/learn  
 The overview of the learning material is found here: https://www.cisa.gov/resources-tools/programs/ics-training-available-through-cisa  
 
 Additional resources that I found valuable were:  
