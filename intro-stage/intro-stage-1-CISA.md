@@ -28,9 +28,10 @@ Some topics that I found valuable:
 #Nmap with the "--reason" flag provides insight into how the program reached various conclusions.  
 #Zero-trust is a very extensive concept, not only concering topics such as for example AAA or security zones, but also having an IDS to scan OT traffic to ensure that no unexpected traffic is present.  
 #NMAP flags that start with -P are likely related to host discovery, while -s is most likely a port scan.  
-
-#Industrial Control Systems Evaluation(401V) - 
+#PLC Fiddle can be used to learn about PLC programming concepts: https://www.plcfiddle.com/  
 #NMAP can run syn/ack scans that only send the initial syn, if run with root permissions(-sS). In OT-nets, the non-priv connection scan(-sT) should be used to avoid hanging connections. Also avoid OS and Version detection scans in OT nets.  
 #Exclusion lists are valuable when scanning, to minimize the risk that particular devices are affected.  
 #The openPLC project provides virtualized PLCs(https://openplcproject.com/getting-started/)  
 #IEC 61131 contains info about various PLC programming languages, which may be valuable for labs.  
+  
+#Industrial Control Systems Evaluation(401V) - 
