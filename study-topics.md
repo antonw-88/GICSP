@@ -17,13 +17,13 @@
 ####NERC CIP basics (if in power/energy) 
 
 #########YOUTUBE CHANNELS:  
-#[SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP. 
-#[Dragos Channel.](https://www.youtube.com/@DragosInc/videos)
-#Siemens & Schneider ICS security webinars  
-#[How to Prepare for GICSP Certification Without SANS Training](https://www.youtube.com/watch?v=U5ttY--AOvw)
-#[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA) 
-#[Getting Started in ICS/OT Cyber Security](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g)   
-#[ControlThings](https://www.youtube.com/@ControlThings)
+#[SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.  
+#[Dragos Channel.](https://www.youtube.com/@DragosInc/videos).  
+#Siemens & Schneider ICS security webinars.  
+#[How to Prepare for GICSP Certification Without SANS Training](https://www.youtube.com/watch?v=U5ttY--AOvw).  
+#[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).   
+#[Getting Started in ICS/OT Cyber Security](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
+#[ControlThings](https://www.youtube.com/@ControlThings).  
 
 #########BOOKS:  
 #"Industrial Network Security" by Eric D. Knapp.  
