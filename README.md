@@ -15,7 +15,7 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 
 #Step 5 - PERA Level 0 & 1 Technology Overview and Compromise
 
-#Step 6- PERA Level 2 & 3 Technology Overview and Compromise
+#Step 6 - PERA Level 2 & 3 Technology Overview and Compromise
 
 #Step 7 - ICS Program & Policy Development
 
