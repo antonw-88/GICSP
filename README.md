@@ -1,4 +1,4 @@
-# GICSP
+# GICSP Exam-Preparation Reference Manual
 
 **This repo is a self-study guide for the GICSP**(Industrial Cyber Security Certification), where the information has been gathered from a large number of other individuals/guides. It is mainly a reference manual, pointing towards various material that I found relevant when studying for the GICSP. It also includes notes regarding topics that I found particularly interesting.  
 *NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.*  
