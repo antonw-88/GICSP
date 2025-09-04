@@ -4,7 +4,8 @@
 ###WIDERANGING ICS SECURITY RESOURCES(Very good for a constant flow of contemporary resources/events):  
 #[SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
 #[SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
-#[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
+#[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets) 
+#Dragos ICS/OT Security year in review.
 
 ###NIST PUBLICATIONS(In-depth details):  
 #800-53r5, Security and Privacy Controls for Information Systems and Organizations.  
@@ -23,6 +24,12 @@
 #[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).   
 #[Getting Started in ICS/OT Cyber Security](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
 #[ControlThings](https://www.youtube.com/@ControlThings).  
+
+###########PODCASTS:
+#Control Loop Dragos
+#Unsolicited Response
+#The protect OT Cybersecurity Podcast
+#Industrial Security Podcast
 
 #########BOOKS:  
 #"Industrial Network Security" by Eric D. Knapp.  
