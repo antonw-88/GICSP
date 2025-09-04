@@ -4,7 +4,7 @@ This repo is a self-study guide for the GICSP(Industrial Cyber Security Certific
 It is mainly a reference manual, pointing towards various material that I found relevant when studying for the GICSP. It also includes notes regarding topics that I found particularly interesting.  
 NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.  
 
-#[Step 0](https://github.com/antonw-88/GICSP/blob/main/study-topics.md) - General overview of available resources.
+#[Step 0](https://github.com/antonw-88/GICSP/blob/main/study-topics.md) - Overview of the guide's main resources.
 
 #[Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of Available Material, and CISA training resources. Goal being to understand what OT systems are, major related components/concepts, and how OT differs from IT.
 
