@@ -9,8 +9,6 @@ Additional resources that I found valuable were:
 #SANS Webinars on ICS security. Recurring and found under the "Focus Area -> ICS Security" at: https://www.sans.org/webcasts  
 #Following various OT security related individuals on LinkedIn. via their posts one finds invites to seminars, labs, technical/organizational/legal insight etc.  
 
-
-
 See below short descriptions for the respective CISA modules and courses:  
 #100W, Industrial Control Systems(ICS) Cybersecurity Practices - Basic cybersecurity topics, not much about ICS.  
 #210W-01, Differences in Deployments of Industrial Control Systems - Basic overview of types of ICS and interconnections between them.  
@@ -28,6 +26,8 @@ See below short descriptions for the respective CISA modules and courses:
 #Industrial Control System Cybersecurity Training(ICS300) - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.  
 
 #Industrial Control Systems Evaluation(401V) - An overview of various steps that can be taken when evaluating the security of an IT+OT system. This includes what kind of tools that are suitable to use, and how they should be used. As with the rest of the CISA material, the course does not go particularly in-depth, but provides an interesting overarching understanding of an evaluation process.  
+
+#In addition to the CISA materials of this introductory section, the [first video](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g) in Mike Holcomb's ICS/OT Security series is relevant at this stage. 
 
 Some topics that I found valuable among the CISA material:  
 #All ICS devices are not able to handle unexpected packets. This may lead to issues during scans.  
