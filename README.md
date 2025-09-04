@@ -1,7 +1,8 @@
 # GICSP
 
-This repo is a self-study guide for the GICSP(Industrial Cyber Security Certification).
-NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.
+This repo is a self-study guide for the GICSP(Industrial Cyber Security Certification).  
+It is mainly a reference manual, pointing towards various material that I found relevant when studying for the GICSP. It also includes notes regarding topics that I found particularly interesting.  
+NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.  
 
 #Step 0 - Overview of available resources for more in-depth understanding when needed.
 
@@ -11,7 +12,7 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 
 #Step 3 - ICS Overview & Concepts
 
-#Step 4 - Protocols, Communications, & Compromises
+#[Step 4](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Protocols, Communications, & Compromises
 
 #Step 5 - PERA Level 0 & 1 Technology Overview and Compromise
 
@@ -24,6 +25,14 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 #Step 9 - Risk Based Disaster Recovery & Incident Response
 
 #Step 10 - Wireless Technologies & Compromises
+
+#[ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment.
+
+#[ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - Some case studies I've done on ICS security related incidents.
+
+#[Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
+
+#[Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for suggested indexing. During initial research, the indexing was repeatedly mentioned as being very important. 
 
 The motivation for the repo was that I couldn't find a fully comprehensive and we structured self-study guide for the GICSP. While a well reputed SANS course exists, it is very expensive. Since I find both OT, the intersection of IT/OT, and security interesting, I decided to create a guide myself. I've also wanted to give back to the opensource community for a long time, and this feels like a hopefully good way to do so. I would like to give special thanks to Manjunath Hiregange, whose Youtube video "How to Prepare for GICSP Certification Without SANS Training" provided a very good initial overview of where to find relevant resources and how to think about the process. Usman Shahzad's Linkedin post regarding his self studies, was also very helpful(https://www.linkedin.com/pulse/my-journey-achieving-gicsp-certification-through-usman-das9f). I would recommend to give both a look. Finally, significant use of ChatGPT was made during the initial phase; to understand the exam itself, identify related critical concepts, and to gather reference material. 
 
