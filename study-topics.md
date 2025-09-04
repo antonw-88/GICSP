@@ -41,4 +41,4 @@ Written as a study guide for the GICSP exam, the book provides an excellent over
 
 On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and then you will find more via reposts.
 
-*Note: Anna's Archive is very good for finding text based resources.*
+***Note: Anna's Archive is very good for finding text based resources.***
