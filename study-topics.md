@@ -31,12 +31,14 @@
 #The protect OT Cybersecurity Podcast
 #Industrial Security Podcast
 
-#########BOOKS:  
+#########BOOKS:  Note
 #"Industrial Network Security" by Eric D. Knapp.  
 #"Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.  
 Written as a study guide for the GICSP exam, the book provides an excellent overview of industrial cyber security with some great practical examples.  
 #"Sandworm" Andy Greenberg.
 
 ##########Vendor OT security guides (Schneider, Siemens, Rockwell):
+
+On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and then you will find more via reposts.
 
 *Note: Anna's Archive is very good for finding text based resources.*
