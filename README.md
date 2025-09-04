@@ -1,8 +1,8 @@
 # GICSP
 
-This repo is a self-study guide for the GICSP(Industrial Cyber Security Certification).  
+**This repo is a self-study guide for the GICSP**(Industrial Cyber Security Certification).  
 It is mainly a reference manual, pointing towards various material that I found relevant when studying for the GICSP. It also includes notes regarding topics that I found particularly interesting.  
-NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.  
+__NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.__  
 
 #[Step 0](https://github.com/antonw-88/GICSP/blob/main/study-topics.md) - Overview of the guide's main resources.
 
