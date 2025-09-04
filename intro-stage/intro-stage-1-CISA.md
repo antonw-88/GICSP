@@ -46,3 +46,9 @@ Some topics that I found valuable among the CISA material:
 #Deterministic traffic - repeatable, predictable, and designed so that fluctuations are easily detected.  
 #Issues with legacy systems include: weak/no auth; plain text traffic; no least priv; no integrity checks; easy connectivity.  
 #It is vital to understand how security requirements differ between ICS sectors, and what kinds of interdependencies that exist.
+#Low WiFi frequency(900MHZ) reaches far and through walls, but low speed.
+#Medium 2.4ghz is often a good inbetween tradeoff.
+#High 5.8ghz is very fast but lacks distance and obstacle penetration.
+#With old systems that are not secure(e.g WEP). What does that affect? Sometimes the non-secure aspects doesn't matter that much.
+#Can't encrypt Beacon or Probe data for WiFi since any system needs to be able to read.
+#Many wi-fi attacks start during the initialization phase.
