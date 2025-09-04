@@ -6,11 +6,11 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 
 #[Step 0](https://github.com/antonw-88/GICSP/blob/main/study-topics.md) - Overview of the guide's main resources.
 
-#[Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of Available Material, and CISA training resources. Goal being to understand what OT systems are, major related components/concepts, and how OT differs from IT.
+#[Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of ICS, via CISA training resources. Goal being to understand what OT+IT systems are, major related components/concepts, and how OT and IT differ from each other.
 
-#Step 2 - ICS Components & Architecture
+#[Step 2](https://github.com/antonw-88/GICSP/blob/main/ICS%20Components%20%26%20Architecture/ICS-components-and-architecture.md) - ICS Components & Architecture - The candidate will be able to categorize assets that comprise Purdue Reference Architecture levels zero through three and describe how they can be implemented in a securable architecture. The candidate will also be able to summarize the use of levels and zones in defining a secure ICS architecture, as well as the devices deployed at each level and zone.  
 
-#Step 3 - ICS Overview & Concepts
+#Step 3 - ICS Overview & Concepts - The candidate will be able to summarize the function of high-level ICS processes as well as ICS roles and responsibilities. The candidate will also be able to compare and contrast high-level differences between ICS and IT, including physical security considerations.  
 
 #[Step 4](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Protocols, Communications, & Compromises
 
@@ -25,6 +25,8 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 #Step 9 - Risk Based Disaster Recovery & Incident Response
 
 #Step 10 - Wireless Technologies & Compromises
+
+#Step 11 - Hardening & Protecting Endpoints - The candidate will be able to describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.  
 
 #[ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment, based on Purdue Model.
 
