@@ -1,7 +1,7 @@
 ###INTRODUCTORY COURSE:  
 #[CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)  
 
-###WIDERANGING ICS SECURITY RESOURCES:
+###WIDERANGING ICS SECURITY RESOURCES:  
 #SANS ICS library and videos. White papers.  
 #[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)
 
