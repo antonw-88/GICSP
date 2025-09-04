@@ -26,7 +26,7 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 
 #Step 10 - Wireless Technologies & Compromises
 
-#[ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment.
+#[ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment, based on Purdue Model.
 
 #[ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - Some case studies I've done on ICS security related incidents.
 
