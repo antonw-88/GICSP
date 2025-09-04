@@ -8,25 +8,25 @@ It is mainly a reference manual, pointing towards various material that I found 
 
 #[Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of ICS, via CISA training resources. Goal being to understand what OT+IT systems are, major related components/concepts, and how OT and IT differ from each other.
 
-#[Step 2](https://github.com/antonw-88/GICSP/blob/main/ICS%20Components%20%26%20Architecture/ICS-components-and-architecture.md) - ICS Components & Architecture - The candidate will be able to categorize assets that comprise Purdue Reference Architecture levels zero through three and describe how they can be implemented in a securable architecture. The candidate will also be able to summarize the use of levels and zones in defining a secure ICS architecture, as well as the devices deployed at each level and zone.  
+#[Step 2](https://github.com/antonw-88/GICSP/blob/main/ICS%20Components%20%26%20Architecture/ICS-components-and-architecture.md) - ICS Components & Architecture - Categorize assets that comprise Purdue Reference Architecture levels zero through three and describe how they can be implemented in a securable architecture. Additionally, summarize the use of levels and zones in defining a secure ICS architecture, as well as the devices deployed at each level and zone.  
 
-#[Step 3](https://github.com/antonw-88/GICSP/tree/main/ICS%20Overview%20%26%20Concepts) - ICS Overview & Concepts - The candidate will be able to summarize the function of high-level ICS processes as well as ICS roles and responsibilities. The candidate will also be able to compare and contrast high-level differences between ICS and IT, including physical security considerations.  
+#[Step 3](https://github.com/antonw-88/GICSP/tree/main/ICS%20Overview%20%26%20Concepts) - ICS Overview & Concepts - Summarize the function of high-level ICS processes as well as ICS roles and responsibilities. Additionally, compare and contrast high-level differences between ICS and IT, including physical security considerations.  
 
-#[Step 4](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Protocols, Communications, & Compromises - The candidate will be able to describe the basic structures, protocols, and defense of communications within an ICS and summarize how they can be compromised. This includes TCP/IP as well as ICS specific protocols. The candidate will also be able to, at a basic level, describe the cryptography used to protect communications.  
+#[Step 4](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Protocols, Communications, & Compromises - Describe the basic structures, protocols, and defense of communications within an ICS and summarize how they can be compromised. This includes TCP/IP as well as ICS specific protocols. Additionally, at a basic level, describe the cryptography used to protect communications.  
 
-#[Step 5](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-0+1) - PERA Level 0 & 1 Technology Overview and Compromise - The candidate will be able to describe level 0 and level 1 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
+#[Step 5](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-0+1) - PERA Level 0 & 1 Technology Overview and Compromise - Describe level 0 and level 1 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
-#[Step 6](https://github.com/antonw-88/GICSP/blob/main/Purdue-Model-Level-2%2B3/Purdue-Model-Level-2%2B3.md) - PERA Level 2 & 3 Technology Overview and Compromise - The candidate will be able to describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
+#[Step 6](https://github.com/antonw-88/GICSP/blob/main/Purdue-Model-Level-2%2B3/Purdue-Model-Level-2%2B3.md) - PERA Level 2 & 3 Technology Overview and Compromise - Describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
-#[Step 7](https://github.com/antonw-88/GICSP/tree/main/ICS%20Program%20%26%20Policy%20Development) - ICS Program & Policy Development - The candidate will be able to summarize the steps and best practices used in building a security program and creating enforceable security policies for an ICS.  
+#[Step 7](https://github.com/antonw-88/GICSP/tree/main/ICS%20Program%20%26%20Policy%20Development) - ICS Program & Policy Development - Summarize the steps and best practices used in building a security program and creating enforceable security policies for an ICS.  
 
-#[Step 8](https://github.com/antonw-88/GICSP/tree/main/Intelligence%20Gathering%20%26%20Threat%20Modeling) - Intelligence Gathering & Threat Modeling - The candidate will be able to determine the threat landscape of an ICS and high-level concepts of threat modeling.  
+#[Step 8](https://github.com/antonw-88/GICSP/tree/main/Intelligence%20Gathering%20%26%20Threat%20Modeling) - Intelligence Gathering & Threat Modeling - Determine the threat landscape of an ICS and high-level concepts of threat modeling.  
 
-#[Step 9](https://github.com/antonw-88/GICSP/tree/main/Risk%20Based%20Disaster%20Recovery%20%26%20Incident%20Response) - Risk Based Disaster Recovery & Incident Response - The candidate will be able to describe how risk is measured and how it can be used to inform disaster recovery and incident response.  
+#[Step 9](https://github.com/antonw-88/GICSP/tree/main/Risk%20Based%20Disaster%20Recovery%20%26%20Incident%20Response) - Risk Based Disaster Recovery & Incident Response - Describe how risk is measured and how it can be used to inform disaster recovery and incident response.  
 
-#[Step 10](https://github.com/antonw-88/GICSP/tree/main/Wireless%20Technologies%20%26%20Compromises) - Wireless Technologies & Compromises - The candidate will be able to summarize the different wireless communication technologies used in an ICS, how they are targeted, and how they can be defended.  
+#[Step 10](https://github.com/antonw-88/GICSP/tree/main/Wireless%20Technologies%20%26%20Compromises) - Wireless Technologies & Compromises - Summarize the different wireless communication technologies used in an ICS, how they are targeted, and how they can be defended.  
 
-#[Step 11](https://github.com/antonw-88/GICSP/tree/main/Hardening%20%26%20Protecting%20Endpoints) - Hardening & Protecting Endpoints - The candidate will be able to describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.  
+#[Step 11](https://github.com/antonw-88/GICSP/tree/main/Hardening%20%26%20Protecting%20Endpoints) - Hardening & Protecting Endpoints - Describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.  
 
 #[ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment, based on Purdue Model.
 
