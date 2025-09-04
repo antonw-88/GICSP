@@ -1,7 +1,7 @@
 # GICSP
 
 This repo is a self-study guide for the GICSP(Industrial Cyber Security Certification).
-NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affects its relevance for individuals with other backgrounds.
+NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.
 
 #Step 0 - Overview of available resources for more in-depth understanding when needed.
 
