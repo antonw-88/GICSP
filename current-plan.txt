@@ -12,3 +12,9 @@
 
 ##########NU:
 #Gå igenom sans sidan noga och notera var man hittar diverse saker. Notera ned kortfattade beskrivningar och instruktioner. Framöver gå ned på djupet bland dessa resurser.
+
+
+#ICS risk management: hazard analysis, consequence vs. likelihood.  
+#Incident response: differences between IT and OT IR processes.  
+#Change management: why it’s critical in ICS.  
+#Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc.
