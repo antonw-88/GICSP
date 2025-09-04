@@ -3,14 +3,14 @@
 
 ###WIDERANGING ICS SECURITY RESOURCES:  
 #SANS ICS library and videos. White papers.  
-#[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)
+#[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
 
-###NIST:
-#800-53r5, Security and Privacy Controls for Information Systems and Organizations.
-#800-61r3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management.
-#800-82r3, Guide to Operational Technology (OT) Security.
+###NIST:  
+#800-53r5, Security and Privacy Controls for Information Systems and Organizations.  
+#800-61r3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management.  
+#800-82r3, Guide to Operational Technology (OT) Security.  
 
-###ISA:
+###ISA:  
 #ISA/IEC 62443 series (especially 1-1, 2-1, 3-3)  
 
 #########YOUTUBE CHANNELS:  
