@@ -5,6 +5,7 @@
 #En av böckerna som Youtube-indiern nämnde hade bra labbar tydligen.
 #Så först översikten, och sedan djupet vad gäller detaljer. Dessa detaljer noterar jag ned i ett index.
 #Använda/Utvärdera Appendix.A+F i NIST guiden för keywords och indexering.
+#Linkedin posterna, gå igenom. Finns massa labbar där.
 
 ##########FOKUS REFERENSER NUVARANDE:
 #NIST 800-82 -> läs igenom, sen ta lite youtube kurser.
