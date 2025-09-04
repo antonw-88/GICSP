@@ -12,19 +12,19 @@ NOTE: This guide is written from the point-of-view of someone with a Linux/InfoS
 
 #Step 3 - ICS Overview & Concepts - The candidate will be able to summarize the function of high-level ICS processes as well as ICS roles and responsibilities. The candidate will also be able to compare and contrast high-level differences between ICS and IT, including physical security considerations.  
 
-#[Step 4](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Protocols, Communications, & Compromises
+#[Step 4](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Protocols, Communications, & Compromises - The candidate will be able to describe the basic structures, protocols, and defense of communications within an ICS and summarize how they can be compromised. This includes TCP/IP as well as ICS specific protocols. The candidate will also be able to, at a basic level, describe the cryptography used to protect communications.  
 
-#Step 5 - PERA Level 0 & 1 Technology Overview and Compromise
+#Step 5 - PERA Level 0 & 1 Technology Overview and Compromise - The candidate will be able to describe level 0 and level 1 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
-#Step 6 - PERA Level 2 & 3 Technology Overview and Compromise
+#Step 6 - PERA Level 2 & 3 Technology Overview and Compromise - The candidate will be able to describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
-#Step 7 - ICS Program & Policy Development
+#Step 7 - ICS Program & Policy Development - The candidate will be able to summarize the steps and best practices used in building a security program and creating enforceable security policies for an ICS.  
 
-#Step 8 - Intelligence Gathering & Threat Modeling
+#Step 8 - Intelligence Gathering & Threat Modeling - The candidate will be able to determine the threat landscape of an ICS and high-level concepts of threat modeling.  
 
-#Step 9 - Risk Based Disaster Recovery & Incident Response
+#Step 9 - Risk Based Disaster Recovery & Incident Response - The candidate will be able to describe how risk is measured and how it can be used to inform disaster recovery and incident response.  
 
-#Step 10 - Wireless Technologies & Compromises
+#Step 10 - Wireless Technologies & Compromises - The candidate will be able to summarize the different wireless communication technologies used in an ICS, how they are targeted, and how they can be defended.  
 
 #Step 11 - Hardening & Protecting Endpoints - The candidate will be able to describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.  
 
