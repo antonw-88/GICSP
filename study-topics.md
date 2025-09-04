@@ -2,7 +2,7 @@
 #[CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)  
 
 ###WIDERANGING ICS SECURITY RESOURCES:  
-#[SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security".
+#[SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security".  
 #[SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
 #[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
 
