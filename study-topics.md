@@ -2,7 +2,8 @@
 #[CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)  
 
 ###WIDERANGING ICS SECURITY RESOURCES:  
-#SANS ICS library and videos. White papers.  
+#[SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security".
+#[SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
 #[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
 
 ###NIST:  
@@ -11,12 +12,13 @@
 #800-82r3, Guide to Operational Technology (OT) Security.  
 
 ###ISA:  
-#ISA/IEC 62443 series (especially 1-1, 2-1, 3-3)  
+#ISA/IEC 62443 series 1-1 & 2-1 & 3-2 & 3-3 & 4-1 & 4-2.  
 
 #########YOUTUBE CHANNELS:  
 #[SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.  
 #[Dragos Channel.](https://www.youtube.com/@DragosInc/videos) For example good for NERC CIP basics.  
-#Siemens & Schneider ICS security webinars.  
+#[Siemens Webinars.](https://www.youtube.com/playlist?list=PLewnA6R5Js9JRCB2v_HULi5lfuhsOWRFf)  
+#[Schneider Electric Channel.](https://www.youtube.com/SchneiderElectric)    
 #[How to Prepare for GICSP Certification Without SANS Training](https://www.youtube.com/watch?v=U5ttY--AOvw).  
 #[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).   
 #[Getting Started in ICS/OT Cyber Security](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
