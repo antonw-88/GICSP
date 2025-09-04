@@ -3,11 +3,27 @@
 This repo is a self-study guide for the GICSP(Industrial Cyber Security Certification).
 NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affects its relevance for individuals with other backgrounds.
 
+#Step 0 - Overview of available resources for more in-depth understanding when needed.
+
 #[Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of Available Material, and CISA training resources. Goal being to understand what OT systems are, major related components/concepts, and how OT differs from IT.
 
-#Step 2 - Overview of available resources for more in-depth understanding when needed.
+#Step 2 - ICS Components & Architecture
 
+#Step 3 - ICS Overview & Concepts
 
+#Step 4 - Protocols, Communications, & Compromises
+
+#Step 5 - PERA Level 0 & 1 Technology Overview and Compromise
+
+#Step 6- PERA Level 2 & 3 Technology Overview and Compromise
+
+#Step 7 - ICS Program & Policy Development
+
+#Step 8 - Intelligence Gathering & Threat Modeling
+
+#Step 9 - Risk Based Disaster Recovery & Incident Response
+
+#Step 10 - Wireless Technologies & Compromises
 
 The motivation for the repo was that I couldn't find a fully comprehensive and we structured self-study guide for the GICSP. While a well reputed SANS course exists, it is very expensive. Since I find both OT, the intersection of IT/OT, and security interesting, I decided to create a guide myself. I've also wanted to give back to the opensource community for a long time, and this feels like a hopefully good way to do so. I would like to give special thanks to Manjunath Hiregange, whose Youtube video "How to Prepare for GICSP Certification Without SANS Training" provided a very good initial overview of where to find relevant resources and how to think about the process. Usman Shahzad's Linkedin post regarding his self studies, was also very helpful(https://www.linkedin.com/pulse/my-journey-achieving-gicsp-certification-through-usman-das9f). I would recommend to give both a look. Finally, significant use of ChatGPT was made during the initial phase; to understand the exam itself, identify related critical concepts, and to gather reference material. 
 
