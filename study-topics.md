@@ -12,8 +12,14 @@
 #800-61r3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management.  
 #800-82r3, Guide to Operational Technology (OT) Security.  
 
-###ISA PUBLICATIONS(In-depth details):  
-#ISA/IEC 62443 series 1-1 & 2-1 & 3-2 & 3-3 & 4-1 & 4-2.  
+###ISA 62443 STANDARDS(In-depth details):  
+#Quick Start Guide: An Overview of the ISA/IEC 62443 Standards  
+#1-1, Terminology, concepts and models.  
+#2-1, Establishing an industrial automation and control system security program.  
+#3-2, Security risk assessment for system design.  
+#3-3, System security requirements and security levels.  
+#4-1, Secure product development lifecycle requirements.  
+#4-2, Technical security requirements for IACS components.  
 
 #########YOUTUBE CHANNELS(These are mainly for an overview of systems/concepts/processes etc. Some variety from in-depth textual resources.):  
 #[SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.  
