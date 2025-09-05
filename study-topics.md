@@ -31,13 +31,13 @@
 #[Getting Started in ICS/OT Cyber Security](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
 #[ControlThings](https://www.youtube.com/@ControlThings).  
 
-###########PODCASTS:
-#Control Loop Dragos
-#Unsolicited Response
-#The protect OT Cybersecurity Podcast
-#Industrial Security Podcast
+###########PODCASTS:  
+#Control Loop Dragos.  
+#Unsolicited Response.  
+#The protect OT Cybersecurity Podcast.  
+#Industrial Security Podcast.  
 
-#########BOOKS:  Note
+#########BOOKS:  
 #"Industrial Network Security" by Eric D. Knapp.  
 #"Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.  
 Written as a study guide for the GICSP exam, the book provides an excellent overview of industrial cyber security with some great practical examples.  
