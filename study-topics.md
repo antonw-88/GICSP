@@ -5,7 +5,7 @@
 #[SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
 #[SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
 #[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets) 
-#Dragos ICS/OT Security year in review.
+#Dragos ICS/OT Security year in review.  
 
 ###NIST PUBLICATIONS(In-depth details, with a lot of good references in the Appendix sections etc):  
 #800-53r5, Security and Privacy Controls for Information Systems and Organizations.  
