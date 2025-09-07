@@ -7,7 +7,7 @@
 #[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets) 
 #Dragos ICS/OT Security year in review.
 
-###NIST PUBLICATIONS(In-depth details):  
+###NIST PUBLICATIONS(In-depth details, with a lot of good references in the Appendix sections etc):  
 #800-53r5, Security and Privacy Controls for Information Systems and Organizations.  
 #800-61r3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management.  
 #800-82r3, Guide to Operational Technology (OT) Security.  
@@ -28,7 +28,7 @@
 #[Schneider Electric Channel.](https://www.youtube.com/SchneiderElectric)    
 #[How to Prepare for GICSP Certification Without SANS Training](https://www.youtube.com/watch?v=U5ttY--AOvw).  
 #[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).   
-#[Getting Started in ICS/OT Cyber Security](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
+#[Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
 #[ControlThings](https://www.youtube.com/@ControlThings).  
 
 ###########PODCASTS:  
