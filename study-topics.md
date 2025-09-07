@@ -4,7 +4,7 @@
 ###WIDERANGING ICS SECURITY RESOURCES(Very good for a constant flow of contemporary resources/events):  
 #[SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
 #[SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
-#[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets) 
+#[SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
 #Dragos ICS/OT Security year in review.  
 
 ###NIST PUBLICATIONS(In-depth details, with a lot of good references in the Appendix sections etc):  
