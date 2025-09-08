@@ -1,10 +1,8 @@
 ##########PLAN:
 #GÅ PÅ ALLA SEMINARIER VIA SANS FÖR ICS. Notera ned detaljer successivt - bind them till sektionerna - och ladda upp i GitHuben.
-#Använda/Utvärdera Appendix.A+F i NIST guiden för keywords och indexering.
-#Linkedin posterna, gå igenom. Finns massa labbar där.
+#Linkedin posterna, gå igenom. Finns massa labbar där. Ta labbar och linkedin posterna efter gått igenom allt teoretiskt och lagt grunden för guiden.
 
 ##########NU:
-#Gå igenom sans sidan noga och notera var man hittar diverse saker. Notera ned kortfattade beskrivningar och instruktioner. Framöver gå ned på djupet bland dessa resurser.
 #Fixa ett indexeringssystem.
 #NIST 800-82 -> läs igenom, sen ta lite youtube kurser.
 
