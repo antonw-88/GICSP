@@ -26,8 +26,7 @@
 #[Dragos Channel.](https://www.youtube.com/@DragosInc/videos) For example good for NERC CIP basics.  
 #[Siemens Webinars.](https://www.youtube.com/playlist?list=PLewnA6R5Js9JRCB2v_HULi5lfuhsOWRFf)  
 #[Schneider Electric Channel.](https://www.youtube.com/SchneiderElectric)    
-#[How to Prepare for GICSP Certification Without SANS Training](https://www.youtube.com/watch?v=U5ttY--AOvw).  
-#[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).   
+#[Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).  
 #[Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
 #[ControlThings](https://www.youtube.com/@ControlThings).  
 
