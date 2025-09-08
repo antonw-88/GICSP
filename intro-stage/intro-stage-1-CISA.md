@@ -8,6 +8,7 @@ The overview of the learning material is found here: https://www.cisa.gov/resour
 Additional resources that I found valuable were:  
 #SANS Webinars on ICS security. Recurring and found under the "Focus Area -> ICS Security" at: https://www.sans.org/webcasts  
 #Following various OT security related individuals on LinkedIn. via their posts one finds invites to seminars, labs, technical/organizational/legal insight etc.  
+#Chris Foreman's slides on "[Cyber-security in Industrial Control Systems](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)".  
 
 See below short descriptions for the respective CISA modules and courses:  
 #100W, Industrial Control Systems(ICS) Cybersecurity Practices - Basic cybersecurity topics, not much about ICS.  
