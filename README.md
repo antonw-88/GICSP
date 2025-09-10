@@ -37,7 +37,7 @@
 
 - [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
 
-- [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for suggested indexing. During initial research, the indexing was repeatedly mentioned as being very important. 
+- [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for reference indexing.
 
 - [Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars etc. that I've joined.
 
