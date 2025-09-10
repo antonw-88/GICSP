@@ -19,8 +19,7 @@ https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environ
   - Secure remote access
   - Risk based vuln mgmt
 
-
-MAIN TOPIC - ICS VISIBILITY AND MONITORING BENEFITS
+## MAIN TOPIC - ICS VISIBILITY AND MONITORING BENEFITS
 
 ###Threat detection
 #Core to have DPI to get threat detection capabilities. For example see modbus codes etc.
