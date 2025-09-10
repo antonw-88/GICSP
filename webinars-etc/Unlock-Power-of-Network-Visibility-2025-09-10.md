@@ -1,5 +1,5 @@
 # Unlock the Power of Network Visibility in Industrial Environments
-https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environments
+https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environments  
 2025-09-10
 
 ## INTRO
