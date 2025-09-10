@@ -2,25 +2,24 @@
 https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environments  
 2025-09-10
 
-## INTRO
+## Intro
 - Technology trends in ICS network visibility: 
   - AI - low contemporary usage in ICS/OT(10% but growing).
   - Current state of AI should not make decisions for the environment.
   - Cloud service usage is growing quite rapidly. Historians/HMI etc.
-  - How do attackers get in -> 
   - Only 56% of orgs have a dedicated ICS/OT IR plan.
-  - Approx 50% of compromises move from IT networks.
-  - External connections are the heavily main reason for initial vectors.
-  - Segmentation very important for supporting qualitative IR.
+  - Approx. 50% of compromises included the attacker pivoting from IT networks into OT.
+  - External connections are the main reasons for initial attack vectors.
+  - Segmentation of networks is very important for supporting qualitative IR.
 
-- The top 5 that orgs are budgeting for:
-  - Defensible architecture -> important for point 2 as well.
-  - Visibility and monitoringh
-  - IR plan etc -> 
-  - Secure remote access
-  - Risk based vuln mgmt
+- The top 5 that security controls that orgs are budgeting for:
+  - Defensible architecture.
+  - Visibility and monitoring.
+  - IR plan etc.
+  - Secure remote access.
+  - Risk based vulnerability manegement.
 
-## ICS VISIBILITY AND MONITORING MAIN TOPIC
+## ICS Visbility and Monitoring
 
 - Threat detection
   - Of core importance to have DPI to get threat detection capabilities. For example see modbus codes etc.
