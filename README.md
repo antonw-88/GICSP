@@ -5,7 +5,7 @@
 
 ## Reference Manual Overview
 
-0. [Step 0](https://github.com/antonw-88/GICSP/blob/main/study-topics.md) - Overview of the guide's main resources.
+0. [Overview of the guide's main resources.](https://github.com/antonw-88/GICSP/blob/main/study-topics.md)
 
 1. [Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of ICS, via CISA training resources. Goal being to understand what OT+IT systems are, major related components/concepts, and how OT and IT differ from each other.
 
