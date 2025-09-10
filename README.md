@@ -3,6 +3,8 @@
 **This repo is a self-study guide for the GICSP**(Global Industrial Cyber Security Professional Certification), where the information has been gathered from a large number of other individuals/guides. It is mainly a reference manual, pointing towards various material that I found relevant when studying for the GICSP. It also includes notes regarding topics that I found particularly interesting.  
 *NOTE: This guide is written from the point-of-view of someone with a Linux/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.*  
 
+## Reference Manual Overview
+
 #[Step 0](https://github.com/antonw-88/GICSP/blob/main/study-topics.md) - Overview of the guide's main resources.
 
 #[Step 1](https://github.com/antonw-88/GICSP/tree/main/intro-stage) - Initial Overview of ICS, via CISA training resources. Goal being to understand what OT+IT systems are, major related components/concepts, and how OT and IT differ from each other.
@@ -27,15 +29,17 @@
 
 #[Step 11](https://github.com/antonw-88/GICSP/tree/main/Hardening%20%26%20Protecting%20Endpoints) - Hardening & Protecting Endpoints - Describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.  
 
-#[ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment, based on Purdue Model.
+## Other Resources
 
-#[ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - Some case studies I've done on ICS security related incidents.
+- [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment, based on Purdue Model.
 
-#[Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
+- [ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - Some case studies I've done on ICS security related incidents.
 
-#[Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for suggested indexing. During initial research, the indexing was repeatedly mentioned as being very important. 
+- [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
 
-#[Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars etc. that I've joined.
+- [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for suggested indexing. During initial research, the indexing was repeatedly mentioned as being very important. 
+
+- [Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars etc. that I've joined.
 
 **The motivation for the repo** was that I couldn't find what seemed to me a comprehensive and well structured self-study guide for the GICSP. While a well reputed SANS course exists, it is very expensive. Since I find both OT, the intersection of IT/OT, and security interesting, I decided to create a guide myself to organize my studies. I've also wanted to give back to the opensource community for a long time, and this feels like a hopefully good way to do so. Manjunath Hiregange's Youtube video "[How to Prepare for GICSP Certification Without SANS Training](https://www.youtube.com/watch?v=U5ttY--AOvw)" provided a very good initial overview of where to find relevant resources and how to think about the process. Usman Shahzad's [Linkedin post](https://www.linkedin.com/pulse/my-journey-achieving-gicsp-certification-through-usman-das9f) regarding his self studies, was also very helpful. Additionally, Mike Holcomb's introductory [ICS IT/OT CyberSecurity course](https://www.youtube.com/watch?v=U5ttY--AOvw) is a great way to both gain valuable insights and avoid just reading NIST and ISA documents.  
 
