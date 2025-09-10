@@ -1,7 +1,7 @@
-#Unlock the Power of Network Visibility in Industrial Environments
+# Unlock the Power of Network Visibility in Industrial Environments
 https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environments  
 
-##INTRO
+## INTRO
 - Technology trends in ICS network visibility: 
   - AI - low contemporary usage in ICS/OT(10% but growing).
   - Current state of AI should not make decisions for the environment.
