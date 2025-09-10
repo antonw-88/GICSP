@@ -21,10 +21,10 @@ https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environ
 
 ## MAIN TOPIC - ICS VISIBILITY AND MONITORING BENEFITS
 
-###Threat detection
-#Core to have DPI to get threat detection capabilities. For example see modbus codes etc.
-#Lateral movement between commonly targeted systems.
-#How to idenfity use of LotL techniques.
+- Threat detection
+  - Core to have DPI to get threat detection capabilities. For example see modbus codes etc.
+  - Lateral movement between commonly targeted systems.
+  - How to idenfity use of LotL techniques.
 
 ###Industrial incident response
 #PCAP, triage and forensic analysis.
@@ -48,15 +48,12 @@ https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environ
 #Use both, but start with east-west if has to choose.
 #Orgs sometimes start with north-south, and lose steam and skip east-west.
 
-###VISIBILITY CONSIDERATIONS:
-#Span -> SPAN already available; no outage required; risk-based; phased approach; 
-#TAP -> outage; potential SPoF; supposed to keep letting traffic through it even if fails; extra cost.
+- SPAN vs TAP Considerations:
+  - Span -> SPAN already available on modern swtiches; no outage required; risk-based and phased approach; 
+  - TAP -> requires outage; potential SPoF, but supposed to keep letting traffic through it even if fails; extra cost.
 
-Get the visibility implemented during the design phase -> XF team communication for this.
-
-###ICS visibility top takeaways:
-1. Allows to ensure defensible architecture.
-2. Supports IR.
-3. Manage remote access securely.
-
-ICS515
+## ICS visibility main takeaways:
+1. Visibilty allows one to ensure that an architecture is adequately defendable.
+2. Supports Incident Response.
+3. Allows management of remote access securely.
+4. Get the visibility implemented during the design phase -> XF team communication for this.
