@@ -1,19 +1,23 @@
-## INTRODUCTORY COURSE(Very superficial, but good for getting used to potentially new terminology):  
+## INTRODUCTORY COURSE
+Very superficial, but good for getting used to potentially new terminology.  
 #[CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)  
 
-## WIDERANGING ICS SECURITY RESOURCES(Very good for a constant flow of contemporary resources/events):  
+## WIDERANGING ICS SECURITY RESOURCES
+Very good for a constant flow of contemporary resources/events.  
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
 - [SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
 - [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
 - www.dragos.com/blog - for example the ICS/OT Security year in review.
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals.
 
-## NIST PUBLICATIONS(In-depth details, with a lot of good references in the Appendix sections etc):  
+## NIST PUBLICATIONS
+In-depth details, with a lot of good references in the Appendix sections etc.    
 - 800-53r5, Security and Privacy Controls for Information Systems and Organizations.  
 - 800-61r3, Incident Response Recommendations and Considerations for Cybersecurity Risk Management.  
 - 800-82r3, Guide to Operational Technology (OT) Security.  
 
-## ISA 62443 STANDARDS(In-depth details):  
+## ISA 62443 STANDARDS
+In-depth details.    
 - Quick Start Guide: An Overview of the ISA/IEC 62443 Standards  
 - 1-1, Terminology, concepts and models.  
 - 2-1, Establishing an industrial automation and control system security program.  
