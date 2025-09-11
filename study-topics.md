@@ -20,7 +20,8 @@
 - 3-2, Security risk assessment for system design.  
 - 3-3, System security requirements and security levels.  
 - 4-1, Secure product development lifecycle requirements.  
-- 4-2, Technical security requirements for IACS components.  
+- 4-2, Technical security requirements for IACS components.
+- "Key to understanding the IEC 62443, is understanding the risk assessment" - Mike Holcomb.
 
 ## YOUTUBE CHANNELS:  
 - [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
