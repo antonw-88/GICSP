@@ -5,7 +5,8 @@
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
 - [SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
 - [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
-- www.dragos.com/blog - for example the ICS/OT Security year in review.  
+- www.dragos.com/blog - for example the ICS/OT Security year in review.
+- On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals.
 
 ## NIST PUBLICATIONS(In-depth details, with a lot of good references in the Appendix sections etc):  
 - 800-53r5, Security and Privacy Controls for Information Systems and Organizations.  
@@ -44,13 +45,11 @@ Written as a study guide for the GICSP exam, the book provides an excellent over
 
 ## Vendor OT security guides (Schneider, Siemens, Rockwell):
 
-On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and then you will find more via reposts.
-
-***Note: Anna's Archive is very good for finding text based resources.***
-
 ### Potential additional certifications:
-#CAP associate certificate program.
+- CAP associate certificate program.
 
 ### Additional Books for Future Reference:
 - Implementing IEC 62433, a Pragmatic Approach to Cybersecurity - David Gunter.
 - Industrial Cyber Security Case Studies and Best Practices - Steve Mustard
+
+***Note: Anna's Archive is very good for finding text based resources.***
