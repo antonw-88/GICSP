@@ -31,9 +31,9 @@
 
 ## Other Resources
 
-- [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - A project that aims to simulate an OT+IT environment, based on Purdue Model.
+- [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on case studies I've done on ICS security related incidents.
 
-- [ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - Some case studies I've done on ICS security related incidents.
+- [ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - 
 
 - [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
 
