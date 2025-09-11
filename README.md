@@ -33,8 +33,6 @@
 
 - [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on case studies I've done on ICS security related incidents.
 
-- [ICS Case Studies](https://github.com/antonw-88/GICSP/tree/main/case-studies) - 
-
 - [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
 
 - [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for reference indexing.
