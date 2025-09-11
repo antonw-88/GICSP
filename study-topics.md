@@ -1,6 +1,7 @@
-## INTRODUCTORY COURSE
-Very superficial, but good for getting used to potentially new terminology.  
-#[CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)  
+## INTRODUCTORY OVERVIEW MATERIAL
+The CISA course is very superficial, but good for getting used to potentially new terminology.  
+- [CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)
+- [Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf) 
 
 ## WIDERANGING ICS SECURITY RESOURCES
 Very good for a constant flow of contemporary resources/events.  
