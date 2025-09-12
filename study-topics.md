@@ -43,10 +43,10 @@ Very good for a constant flow of contemporary resources/events.
 - [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources. 
 
 ## BOOKS:  
-- "Industrial Network Security" by Eric D. Knapp.    
-- "Sandworm" Andy Greenberg.
-- Implementing IEC 62433, a Pragmatic Approach to Cybersecurity - David Gunter.
-- Industrial Cyber Security Case Studies and Best Practices - Steve Mustard
+- "Industrial Network Security", Eric D. Knapp.    
+- "Sandworm", Andy Greenberg.
+- "Implementing IEC 62433, a Pragmatic Approach to Cybersecurity", David Gunter.
+- "Industrial Cyber Security Case Studies and Best Practices", Steve Mustard
 
 ## PODCASTS:  
 - Control Loop Dragos.  
