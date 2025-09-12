@@ -46,7 +46,7 @@ Very good for a constant flow of contemporary resources/events.
 - "Industrial Network Security", Eric D. Knapp.    
 - "Sandworm", Andy Greenberg.
 - "Implementing IEC 62433, a Pragmatic Approach to Cybersecurity", David Gunter.
-- "Industrial Cyber Security Case Studies and Best Practices", Steve Mustard
+- "Industrial Cyber Security Case Studies and Best Practices", Steve Mustard.
 
 ## PODCASTS:  
 - Control Loop Dragos.  
