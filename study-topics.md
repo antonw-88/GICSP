@@ -8,7 +8,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals.
 
 ## BOOKS
-- "Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.
+- "Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.  
 Intended as a study guide for the GICSP exam, this book has a seemingly great reputation among ICS Security professionals.
 
 ## NIST PUBLICATIONS
