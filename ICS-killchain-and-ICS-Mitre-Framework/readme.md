@@ -1,1 +1,1 @@
-References for the ICS killchain and Mitre's ICS Attack framework.
+References for the ICS killchain(high level model) and Mitre's ICS Attack framework(mid level model).
