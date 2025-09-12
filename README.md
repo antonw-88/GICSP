@@ -32,12 +32,10 @@
 ## Other Resources
 
 - [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on case studies I've done on ICS security related incidents.
-
 - [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Link to various lab environments that I found when researching this project.
-
 - [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for reference indexing.
-
 - [Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars etc. that I've joined.
+- [Frameworks](https://github.com/antonw-88/GICSP/tree/main/ICS-killchain-and-ICS-Mitre-Framework) - Mitre Attack Framework and the ICS Killchain.
 
 ## Information about the Repo
 
