@@ -15,7 +15,7 @@
 ## SEN:
 - Practical Industrial Cybersecurity -> läs hela noggrant och gör provfrågorna. Köp fysiska boken så inte måste sitta vid datorn.
 - Labbar. 
-- Gör testprov.
+- Gör testprov. Identifera vilka SANS cheatsheets som vore bra ha med för riktiga provet.
 
 ## SLUTSEKVENS:
 - När identifierat svaga punkter via testprovet, läs upp mig på dessa punkter.
