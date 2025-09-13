@@ -7,9 +7,10 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - [Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals.
 
-## BOOKS
+## BOOKS & CHEATSHEETS
 - "Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.  
 Intended as a study guide for the GICSP exam, this book has a seemingly great reputation among ICS Security professionals.
+- [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). One frequent GIAC test taker(Hacks4Pancakes) noted: "Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test!"
 
 ## NIST PUBLICATIONS
 In-depth details, with a lot of good references in the Appendix sections etc.    
@@ -37,8 +38,7 @@ This section is aimed at providing references to material related to ICS that is
 ## WIDERANGING ICS SECURITY RESOURCES
 Very good for a constant flow of contemporary resources/events.  
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
-- [SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)  
-- [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets)  
+- [SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)   
 - [The Dragos blog](https://www.dragos.com/blog) - for example the ICS/OT Security year in review. 
 - [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources. 
 
