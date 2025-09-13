@@ -3,7 +3,6 @@
 - Linkedin posterna, gå igenom. Finns massa labbar där. Ta labbar och linkedin posterna efter gått igenom allt teoretiskt och lagt grunden för guiden.
 
 ## NU:
-- Kopiera över detaljerade läromål från "notes" mappen, till .txt filerna i huvudmappen. T.ex SCADA till rätt fil, cellular comms till rätt fil o.s.v. Så får en väldigt tydlig struktur på vilka som är de vitala koncepten.
 - Övergripande gå igenom kvarvarande huvudreferenser och mappa dem till korrekta respektive .txt filer.
 - Snygga till varje .txt fil och lägg upp i Githuben.
 
