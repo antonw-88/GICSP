@@ -61,9 +61,7 @@ Very good for a constant flow of contemporary resources/events.
 - [Industrial Control System (ICS) Cyber Security Training Course](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA).  
 - [ControlThings](https://www.youtube.com/@ControlThings). 
 
-## Vendor OT security guides (Schneider, Siemens, Rockwell):
+## Potential additional OT related certifications:
+- CAP associate certificate program(overview program of OT environments/processes etc).
 
-## Potential additional certifications:
-- CAP associate certificate program.
-
-***Note: Anna's Archive is very good for finding text based resources.***
+***Note: Anna's Archive is very good for finding text-based resources.***
