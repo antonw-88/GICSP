@@ -19,14 +19,12 @@ In-depth details, with a lot of good references in the Appendix sections etc.
 - 800-82r3, Guide to Operational Technology (OT) Security.  
 
 ## ISA/IEC 62443 STANDARDS
-These standards contain in-depth details. Since the material is quite extensive, going through the Quick Start Guide helps with gaining an understanding of how to approach the reading of the standards. The standards below are the ones I found to be most frequently referenced as relevant for the GICSP exam.    
+These standards contain in-depth details. Since the material is quite extensive, going through the Quick Start Guide helps with gaining an understanding of how to approach the reading of the standards. The standards below are the ones I found to be most frequently referenced by industry professionals as being relevant for the GICSP exam. Additionally, in the 4-2 standard(p.14), it is stated that "the primary standards for system integrators are ISA‑62443‑2‑1 [5], ISA‑62443‑2‑4 [8], ISA‑62443‑3‑2 [10] and ISA‑62443‑3‑3". However, since the contents of 2-4 is more directed towards third-parties/service providers than operators, I didn't add it to the list.       
 - Quick Start Guide: An Overview of the ISA/IEC 62443 Standards  
 - 1-1, Terminology, concepts and models. While a good overview of various topics, the other standards provide more in-depth details. 
 - 2-1, Establishing an industrial automation and control system security program.  
 - 3-2, Security risk assessment for system design.  
 - 3-3, System security requirements and security levels.  
-- 4-1, Secure product development lifecycle requirements.  
-- 4-2, Technical security requirements for IACS components.
 
 ## YOUTUBE CHANNELS:  
 - [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
