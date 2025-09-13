@@ -38,7 +38,8 @@ Very good for a constant flow of contemporary resources/events.
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars.  
 - [SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)   
 - [The Dragos blog](https://www.dragos.com/blog) - for example the ICS/OT Security year in review. 
-- [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources. 
+- [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources.
+- The rest of the ISA/IEC 62443 standards.
 
 ## BOOKS:  
 - "Industrial Network Security", Eric D. Knapp.    
