@@ -21,7 +21,7 @@ In-depth details, with a lot of good references in the Appendix sections etc.
 ## ISA/IEC 62443 STANDARDS
 These standards contain in-depth details. Since the material is quite extensive, going through the Quick Start Guide helps with gaining an understanding of how to approach the reading of the standards. The standards below are the ones I found to be most frequently referenced as relevant for the GICSP exam.    
 - Quick Start Guide: An Overview of the ISA/IEC 62443 Standards  
-- 1-1, Terminology, concepts and models.  
+- 1-1, Terminology, concepts and models. While a good overview of various topics, the other standards provide more in-depth details. 
 - 2-1, Establishing an industrial automation and control system security program.  
 - 3-2, Security risk assessment for system design.  
 - 3-3, System security requirements and security levels.  
