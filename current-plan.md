@@ -19,9 +19,11 @@
 
 ## SLUTSEKVENS:
 - När identifierat svaga punkter via testprovet, läs upp mig på dessa punkter.
-- Projektdelen. 
+- Projektdelen.
+- Labbar.
+- Efter fått ihop, genom projektdelen, så begriper skillnaden emellan olika ICS infrastrukturer, ta riktiga provet. 
 
 ## EFTER CERTAD:
 - Uppdatera guiden med lessons learned.
 - Uppdatera guiden med info om själva provet.
-- Lägg upp på Linkedin. Bara nån enkel post. "Hittade ingen ordentlig textbaserad referensmanual för GICSP. Om nån varit intresserad av att ta certet men tyckt kursen varit för dyr, och för tidskrävande att identifiera vad för material som vore vettigt fokusera på för självstudier, så kan denna guide nog vara till nytta". 
+- Lägg upp på Linkedin. Bara nån enkel post. "Hittade ingen ordentlig textbaserad referensmanual för GICSP. Om nån varit intresserad av att ta certet men tyckt kursen varit för dyr, och för tidskrävande att identifiera vad för material som vore vettigt fokusera på för självstudier, så kan denna guide nog vara till nytta. Har mappat respektive koncept som är vitalt för själva cert-examen, till var detta koncept diskuteras i officiella NIST och ISA/IEC standarder; då det är dessa standarder som själva certet huvudsakligen bygger på". 
