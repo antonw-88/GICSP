@@ -31,7 +31,7 @@ In-depth details. Since the material is quite extensive, going through the Quick
 - [SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.   
 
 # ADDITIONAL MATERIAL
-This section is aimed at providing references to material related to ICS that is not vital for the exam preparation.
+This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
 
 ## WIDERANGING ICS SECURITY RESOURCES
 Very good for a constant flow of contemporary resources/events.  
