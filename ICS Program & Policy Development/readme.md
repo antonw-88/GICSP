@@ -1,4 +1,4 @@
-## Goal: Understand the overall structure of the IACS CSMS structure laid out in IEC/ISA 2-1, so that can crossreference quickly if needed. The details are seemingly too extensive to memorize in comparison to the value they bring for the knowledge examinated.
+#### Goal: Understand the overall structure of the IACS CSMS structure laid out in IEC/ISA 2-1, so that can crossreference quickly if needed. The details are seemingly too extensive to memorize in comparison to the value they bring for the knowledge examinated.
 
 ## NIST 800-82r3:
 - Chapter 3
