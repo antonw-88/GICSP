@@ -13,3 +13,5 @@ Triton/Trisis
 ICS PCAPs github.com/ITI/ICS-security-tools
 Modbus TCP/IP PLC server simulator
 Fortiphyd logic INC modbus labs David -> https://github.com/orgs/Fortiphyd/repositories
+
+Control Things platform
