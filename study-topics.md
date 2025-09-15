@@ -47,6 +47,7 @@ Very good for a constant flow of contemporary resources/events.
 - "Sandworm", Andy Greenberg.
 - "Implementing IEC 62433, a Pragmatic Approach to Cybersecurity", David Gunter.
 - "Industrial Cyber Security Case Studies and Best Practices", Steve Mustard.
+- "Firewall Deployment for SCADA and Process Control Networks: Good Practice Guide".
 
 ## PODCASTS:  
 - Control Loop Dragos.  
