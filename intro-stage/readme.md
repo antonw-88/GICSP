@@ -41,7 +41,7 @@ The overview of the CISA learning material is [found here](https://www.cisa.gov/
 - Exclusion lists are valuable when scanning, to minimize the risk that particular devices are affected.  
 - The openPLC project provides virtualized PLCs(https://openplcproject.com/getting-started/)  
 - IEC 61131 contains info about various PLC programming languages, which may be valuable for labs.  
-- Deterministic traffic - repeatable, predictable, and designed so that fluctuations are easily detected.  
+- Good definition of deterministic traffic: "_repeatable, predictable, and designed so that fluctuations are easily detected_".  
 - Issues with legacy systems include: weak/no auth; plain text traffic; no least priv; no integrity checks; easy connectivity.  
 - It is vital to understand how security requirements differ between ICS sectors, and what kinds of interdependencies that exist.  
 - Low WiFi frequency(900MHZ) reaches far and through walls, but low speed.  
