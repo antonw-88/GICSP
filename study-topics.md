@@ -9,7 +9,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 
 ## BOOKS & CHEATSHEETS
 - "Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.  
-Intended as a study guide for the GICSP exam, this book has a seemingly great reputation among ICS Security professionals.
+Intended as a study guide for the GICSP exam. Contains 25 practice questions per chapter. Has a seemingly great reputation among ICS Security professionals.
 - [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). One frequent GIAC test taker(Hacks4Pancakes) noted: "_Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test!_"
 
 ## NIST PUBLICATIONS
