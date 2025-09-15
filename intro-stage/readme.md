@@ -12,19 +12,19 @@ The overview of the CISA learning material is [found here](https://www.cisa.gov/
 
 ### See below short descriptions for the respective CISA modules and courses:  
 - Individual modules:
-  - 100W, Industrial Control Systems(ICS) Cybersecurity Practices - Basic cybersecurity topics, not much about ICS.  
-  - 210W-01, Differences in Deployments of Industrial Control Systems - Basic overview of types of ICS and interconnections between them.  
-  - 210W-02, Influence of IT Components on ICS - Basic overview of IT components and IT security tenets/vulnerabilities.  
-  - 210W-03, Common ICS components - For someone with more traditional IT background, this section gave a good overview of various OT components/concepts/etc. 
-  - 210W-04, Cybersecurity Within IT and ICS Domains - Basic overview of cybersecurity.  
-  - 210W-05, ICS Cybersecurity risks - Basic overview of cybersecurity risk(risk= threat x consequence x vulnerabilitiy) and related topics.  
-  - 210W-06, ICS cybersecurity threats - Basic overview of threat actors and related topics.  
-  - 210W-07, ICS cybersecurity vulnerabilities - Highlighting how many ICS vulnerabilities are somehow related to availability prioritization.  
-  - 210W-08, ICS cybersecurity consequences - How failure of equipment, bad processes, people issues may lead to consequences.  
-  - 210W-09, Attack methodologies in IT and ICS - Basic overview of the steps of how an attack occurs - some differences between how attacks against ICS and IT occur.  
-  - 210W-10 and 210W-11, Mapping IT DoD to ICS 1&2 - basic overview of how to apply security measures common for IT, in OT environments. Purdue model intro.   
-- Industrial Control System Cybersecurity Training(ICS300) - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.  
-- Industrial Control Systems Evaluation(401V) - An overview of various steps that can be taken when evaluating the security of an IT+OT system. This includes what kind of tools that are suitable to use, and how they should be used. As with the rest of the CISA material, the course does not go particularly in-depth, but provides an interesting overarching understanding of an evaluation process.  
+  - _100W, Industrial Control Systems(ICS) Cybersecurity Practices_ - Basic cybersecurity topics, not much about ICS.  
+  - _210W-01, Differences in Deployments of Industrial Control Systems_ - Basic overview of types of ICS and interconnections between them.  
+  - _210W-02, Influence of IT Components on ICS_ - Basic overview of IT components and IT security tenets/vulnerabilities.  
+  - _210W-03, Common ICS components_ - For someone with more traditional IT background, this section gave a good overview of various OT components/concepts/etc. 
+  - _210W-04, Cybersecurity Within IT and ICS Domains_ - Basic overview of cybersecurity.  
+  - _210W-05, ICS Cybersecurity risks_ - Basic overview of cybersecurity risk(risk= threat x consequence x vulnerabilitiy) and related topics.  
+  - _210W-06, ICS cybersecurity threats_ - Basic overview of threat actors and related topics.  
+  - _210W-07, ICS cybersecurity vulnerabilities_ - Highlighting how many ICS vulnerabilities are somehow related to availability prioritization.  
+  - _210W-08, ICS cybersecurity consequences_ - How failure of equipment, bad processes, people issues may lead to consequences.  
+  - _210W-09, Attack methodologies in IT and ICS_ - Basic overview of the steps of how an attack occurs - some differences between how attacks against ICS and IT occur.  
+  - _210W-10 and 210W-11, Mapping IT DoD to ICS 1&2_ - basic overview of how to apply security measures common for IT, in OT environments. Purdue model intro.   
+- _Industrial Control System Cybersecurity Training(ICS300)_ - Similar to the modules, but with some additional concepts. The main difference is that the ICS300 is built around a number of labs. The labs are not advanced, but they provide an understanding of what types of tools that are relevant for someone working with securing the OT+IT side of ICS systems.  
+- _Industrial Control Systems Evaluation(401V)_ - An overview of various steps that can be taken when evaluating the security of an IT+OT system. This includes what kind of tools that are suitable to use, and how they should be used. As with the rest of the CISA material, the course does not go particularly in-depth, but provides an interesting overarching understanding of an evaluation process.  
 - In addition to the CISA materials of this introductory section, the [first video](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g) in Mike Holcomb's ICS/OT Security series is relevant at this stage. 
 
 ### Some topics that I found valuable among the CISA material:  
