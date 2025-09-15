@@ -16,3 +16,6 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Historians and Databases 
 - Supervisory Servers 
 - Supervisory Attacks
+
+## Notes:
+- Poll data into the Purdue model. Don't push from IT to OT.
