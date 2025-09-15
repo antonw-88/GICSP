@@ -9,7 +9,7 @@
 
 1. [Initial Overview of ICS](https://github.com/antonw-88/GICSP/tree/main/intro-stage), via CISA training resources. Goal being to understand what OT+IT systems are, major related components/concepts, and how OT and IT differ from each other.
 
-2. [ICS Components & Architecture](https://github.com/antonw-88/GICSP/blob/main/ICS%20Components%20%26%20Architecture/ICS-components-and-architecture.md) - Categorize assets that comprise Purdue Reference Architecture levels zero through three and describe how they can be implemented in a securable architecture. Additionally, summarize the use of levels and zones in defining a secure ICS architecture, as well as the devices deployed at each level and zone.  
+2. [ICS Components & Architecture](https://github.com/antonw-88/GICSP/tree/main/ICS%20Components%20%26%20Architecture) - Categorize assets that comprise Purdue Reference Architecture levels zero through three and describe how they can be implemented in a securable architecture. Additionally, summarize the use of levels and zones in defining a secure ICS architecture, as well as the devices deployed at each level and zone.  
 
 3. [ICS Overview & Concepts](https://github.com/antonw-88/GICSP/tree/main/ICS%20Overview%20%26%20Concepts) - Summarize the function of high-level ICS processes as well as ICS roles and responsibilities. Additionally, compare and contrast high-level differences between ICS and IT, including physical security considerations.  
 
