@@ -17,7 +17,7 @@
 
 5. [PERA Level 0 & 1 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-0+1) - Describe level 0 and level 1 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
-6. [PERA Level 2 & 3 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/blob/main/Purdue-Model-Level-2%2B3/Purdue-Model-Level-2%2B3.md) - Describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
+6. [PERA Level 2 & 3 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-2%2B3) - Describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
 7. [ICS Program & Policy Development](https://github.com/antonw-88/GICSP/tree/main/ICS%20Program%20%26%20Policy%20Development) - Summarize the steps and best practices used in building a security program and creating enforceable security policies for an ICS.  
 
