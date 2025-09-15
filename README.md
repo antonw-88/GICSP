@@ -27,7 +27,9 @@
 
 10. [Wireless Technologies & Compromises](https://github.com/antonw-88/GICSP/tree/main/Wireless%20Technologies%20%26%20Compromises) - Summarize the different wireless communication technologies used in an ICS, how they are targeted, and how they can be defended.  
 
-11. [Hardening & Protecting Endpoints](https://github.com/antonw-88/GICSP/tree/main/Hardening%20%26%20Protecting%20Endpoints) - Describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.  
+11. [Hardening & Protecting Endpoints](https://github.com/antonw-88/GICSP/tree/main/Hardening%20%26%20Protecting%20Endpoints) - Describe how to implement endpoint security software along with hardening and patching, to secure the Windows and Unix style operating systems commonly found in an ICS environment.
+
+12. [Safety Instrumented Systems and Functions](https://github.com/antonw-88/GICSP/tree/main/Safety-Instrumented-Systems-and-Functions) - Identify various forms of SIS systems and what they consist of.
 
 ## Other Resources
 
