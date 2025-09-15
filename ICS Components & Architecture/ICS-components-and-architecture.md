@@ -12,12 +12,12 @@
 - 62443-1-1
 
 ## Core Concepts mentioned in the SANS course syllabus
-_The note "chapter" refers to the "Practical Industrial Cyber Security" book_
-  - HMIs, Historians, Alarm Servers -> chapter 1 
-  - PLC -> In-depth in chapter 2 "field devices"
-  - Programming Controllers -> chapter 2
-  - Controllers and Field Devices -> chapter 1 
-  - Specialized Applications and Master Servers 
-  - Control Rooms and Plants 
-  - SCADA -> chapter 1
-  - Regional SCADA -> chapter 1
+_The note "chapter" refers to the "Practical Industrial Cyber Security" book._
+- HMIs, Historians, Alarm Servers -> chapter 1. 
+- PLC -> In-depth in chapter 2 "field devices".
+- Programming Controllers -> chapter 2.
+- Controllers and Field Devices -> chapter 1. 
+- Specialized Applications and Master Servers 
+- Control Rooms and Plants 
+- SCADA -> chapter 1.
+- Regional SCADA -> chapter 1.
