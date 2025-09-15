@@ -15,3 +15,5 @@ Modbus TCP/IP PLC server simulator
 Fortiphyd logic INC modbus labs David -> https://github.com/orgs/Fortiphyd/repositories
 
 Control Things platform(part of the SANS course lab structure).
+
+GRFICS lab
