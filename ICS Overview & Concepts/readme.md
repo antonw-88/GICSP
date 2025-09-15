@@ -9,7 +9,7 @@
 
 ### Core concepts mentioned in the SANS course syllabus:  
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
-- Different industry requirements -> https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors
+- [Different industry requirements.](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors)
 - IT & ICS Differences - 800-82 section 2 and executive summary.
 - Physical and Cyber Security -> Overall understanding from multiple references.
 - ICS Life Cycle Challenges 
