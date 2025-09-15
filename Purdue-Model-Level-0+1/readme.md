@@ -17,3 +17,4 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Purdue Level 0 and 1 Defenses
 
 ## Notes:
+- Poll data into the Purdue model. Don't push from IT to OT.
