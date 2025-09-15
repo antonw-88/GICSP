@@ -11,7 +11,8 @@
 - Quick Start Guide: An Overview of ISA/IEC 62443 Standards - Security of Industrial Automation and Control Systems
 - 62443-1-1
 
-- A couple of core concepts mentioned in the SANS course syllabus("chapter" refers to the "Practical Industrial Cyber Security" book):
+## Core Concepts mentioned in the SANS course syllabus
+_The note "chapter" refers to the "Practical Industrial Cyber Security" book_
   - HMIs, Historians, Alarm Servers -> chapter 1 
   - PLC -> In-depth in chapter 2 "field devices"
   - Programming Controllers -> chapter 2
