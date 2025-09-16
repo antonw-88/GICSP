@@ -7,23 +7,24 @@
 
 ## Core concepts mentioned in the SANS course syllabus:  
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
-- Windows defense strategies
+- Windows defense strategies -> Chapter 4.
+- BIOS security -> Chapter 4.
 - Patching decision frameworks
-- User Interfaces
+- User Interfaces -> Chapter 4.
 - Web-based Attacks
-- Password Defenses
+- Password Defenses -> Chapter 4, p.162.
 - Defending Microsoft Windows -> Chapter 4.
-- Windows Services
+- Windows Services -> Chapter 4.
 - Windows Security Policies and GPOs
-- Host Firewalls
 - Patching ICS Systems
 - Patch Decision Tree
 - Defending Unix and Linux -> Chapter 4.
 - Differences with Windows -> Chapter 4.
-- Daemons, SystemV, and SystemD
-- Lynis and Bastille
+- Daemons, SystemV, and SystemD -> Chapter 4, p.160.
+- Bastille -> Chapter 4, p.162.
+- Lynis -> 
 - Endpoint Protection and SIEMS
 - Application Runtime and Execution Control -> Chapter 4.
-- Configuration Integrity and Containers -> Chapter 4.
+- Container Configuration Integrity -> Chapter 4, p.169.
 - Logs in Windows and Linux -> Chapter 4.
 - Embedded device security -> Chapter 4.
