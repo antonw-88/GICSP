@@ -12,18 +12,18 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - User Interfaces
 - Web-based Attacks
 - Password Defenses
-- Defending Microsoft Windows
+- Defending Microsoft Windows -> Chapter 4.
 - Windows Services
 - Windows Security Policies and GPOs
 - Host Firewalls
 - Patching ICS Systems
 - Patch Decision Tree
-- Defending Unix and Linux
-- Differences with Windows
+- Defending Unix and Linux -> Chapter 4.
+- Differences with Windows -> Chapter 4.
 - Daemons, SystemV, and SystemD
 - Lynis and Bastille
-- Exercise: Hardening Linux
 - Endpoint Protection and SIEMS
-- Application Runtime and Execution Control
-- Configuration Integrity and Containers
-- Logs in Windows and Linux
+- Application Runtime and Execution Control -> Chapter 4.
+- Configuration Integrity and Containers -> Chapter 4.
+- Logs in Windows and Linux -> Chapter 4.
+- Embedded device security -> Chapter 4.
