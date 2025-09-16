@@ -22,6 +22,7 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Ethernet and TCP/IP  -> chapter 2
 - Ethernet Concepts  -> chapter 2
 - TCP/IP Concepts  -> chapter 2
+- Network Hardning -> Chapter 4, p.189.
 - ICS Protocols over TCP/IP  -> chapter 2
 - Wireshark and ICS Protocols  -> chapter 2
 - Attacks on Networks -> chapter 3
