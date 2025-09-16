@@ -9,15 +9,15 @@
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Windows defense strategies -> Chapter 4.
 - BIOS security -> Chapter 4.
-- Patching decision frameworks
+- Patching decision frameworks -> Chapter 10.
+- Windows Security Policies and GPOs
+- Patching ICS Systems -> Chapter 10.
+- Patch Decision Tree -> Chapter 10.
 - User Interfaces -> Chapter 4.
 - Web-based Attacks
 - Password Defenses -> Chapter 4, p.162.
 - Defending Microsoft Windows -> Chapter 4.
 - Windows Services -> Chapter 4.
-- Windows Security Policies and GPOs
-- Patching ICS Systems
-- Patch Decision Tree
 - Defending Unix and Linux -> Chapter 4.
 - Differences with Windows -> Chapter 4.
 - Daemons, SystemV, and SystemD -> Chapter 4, p.160.
@@ -27,4 +27,4 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Application Runtime and Execution Control -> Chapter 4.
 - Container Configuration Integrity -> Chapter 4, p.169.
 - Logs in Windows and Linux -> Chapter 4.
-- Embedded device security -> Chapter 4.
+- Embedded device security -> Chapter 4, p.182 & 187.
