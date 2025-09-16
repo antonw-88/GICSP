@@ -8,6 +8,7 @@
 
 ## IEC/ISA 62443-2-1:
 - Figure 1 - good overview of the process.
+- Page 142 onward provides a good detailed overview of how to set up a CSMS for ICS.  
 
 ## IEC/ISA 62443-1-1:
 - Section 6.6
