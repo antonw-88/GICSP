@@ -41,6 +41,7 @@ Very good for a constant flow of contemporary resources/events.
 - [The Dragos blog](https://www.dragos.com/blog) - for example the ICS/OT Security year in review. 
 - [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources.
 - The rest of the ISA/IEC 62443 standards.
+- [Adjusting CV](https://supratikpathak.com/blog/ot-cybersecurity-resume-guide/) to focus on topics valued by OT hiring managers.
 
 ## BOOKS:  
 - "Industrial Network Security", Eric D. Knapp.    
