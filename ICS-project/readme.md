@@ -9,3 +9,5 @@ The goal is to understand better both from a theoretical and practical point-of-
 - The aim with the architectures is not for them to be fully comprehensive, but focus on the events that occurred, and the more unique properties of such IT/OT environments. For example, all such environments should probably have AAA servers, but not all might use RTUs.
 - Labs that reflect what happened?
 - Use of ICS Killchain and Mitre ICS ATT&CK, to analyze what happened in a structured manner.
+- Use directives from page 142 in 62443-2-1, to establish a CSMS.
+- Project to be built around energy/water/wind sector to learn about scada and since energy is of core importance to all other ICS sectors.
