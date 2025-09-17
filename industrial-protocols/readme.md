@@ -7,7 +7,7 @@
 
 ## Protocol Specific References:
 - Profinet
-- Modbus, TCP and other modes.
+- Modbus, TCP and other modes -> good data in the "Cyber-security in industrial control Systems"-pdf.
 - DNP3
 - CIP
 - OPC UA
