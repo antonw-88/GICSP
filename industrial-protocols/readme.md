@@ -30,12 +30,12 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Firewalls and NextGen Firewalls -> chapter 3
 - Modern Data Diodes -> chapter 3
 - NIDS/NIPS and Netflow -> chapter 3
-- Sniffing, DoS, Masquerading, Rogue AP 
+- Sniffing, DoS, Masquerading, Rogue AP -> Chapter 5 
 - USB Scanning and Honeypots
-- Understanding Basic Cryptography
-- Crypto Keys
+- Understanding Basic Cryptography -> Chapter 5
+- Crypto Keys -> Chapter 5
 - Encryption, Hashing, and Signatures -> chapter 3
 - Secure ICS Network Architectures - Defense-in-depth: 800-82 p.3
 - Fieldbus Protocol Families -> chapter 2
 - Remote Access  -> chapter 3
-- Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc.
+- Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc -> See the lab section.
