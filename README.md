@@ -34,6 +34,8 @@
 
 12. [Safety Instrumented Systems and Functions](https://github.com/antonw-88/GICSP/tree/main/Safety-Instrumented-Systems-and-Functions) - Identify various forms of SIS systems and what they consist of.
 
+13. [Access Control Management](https://github.com/antonw-88/GICSP/tree/main/access-control-management) - Not explicitly mentioned in the GIAC syllabus, but of vital concern for IT and OT security efforts. 
+
 ## Other Resources
 
 - [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on a case study of the _to-be-decided_ incident.
