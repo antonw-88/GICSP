@@ -11,7 +11,7 @@
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - [Different industry requirements.](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors)
 - IT & ICS Differences - 800-82 section 2 and executive summary.
-- Physical and Cyber Security -> Overall understanding from multiple references.
+- Physical Security Topics -> Chapter 6.
 - ICS Life Cycle Challenges 
 - ICS410 Reference Model 
 - Safety Instrumented Systems (SIS) -> chapter 1
