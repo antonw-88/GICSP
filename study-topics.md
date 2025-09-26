@@ -82,6 +82,7 @@ This section is aimed at providing references to material related to ICS that is
 - [ControlThings](https://www.youtube.com/@ControlThings). 
 
 ## Potential additional OT related certifications:
-- CAP associate certificate program(overview program of OT environments/processes etc).
+- [CAP associate certificate program](https://www.isa.org/certification/certificate-programs/cap-associate-certificate-program) - Overview program of OT environments/processes etc.
+- [SANS ICS515(GRID)](https://www.sans.org/cyber-security-courses/ics-visibility-detection-response) - More technically oriented. 
 
 ***Note: Anna's Archive is very good for finding text-based resources.***
