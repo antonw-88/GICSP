@@ -45,13 +45,14 @@ The above document is a very good reference for understanding the structure and 
 # ADDITIONAL MATERIAL
 This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
 
-## WIDERANGING ICS SECURITY RESOURCES  
+## VARIOUS ICS SECURITY RESOURCES  
 - [SANS ICS Podcasts, White Papers, Blogs, etc.](https://www.sans.org/security-resources)   
 - [The Dragos blog](https://www.dragos.com/blog) - for example the ICS/OT Security year in review. 
 - [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources.
 - The rest of the ISA/IEC 62443 standards.
 - [Adjusting CV](https://supratikpathak.com/blog/ot-cybersecurity-resume-guide/) to focus on topics valued by OT hiring managers.
 - [ISA-95](https://www.isa.org/standards-and-publications/isa-standards/isa-95-standard), focuses on the integration between L3 and L4 in the Purdue model. These two layers, and the DMZ between them, constitutes the IT/OT boundary.
+- [SANS ICS KillChain](https://www.sans.org/white-papers/webs-deception-using-sans-ics-kill-chain-flip-advantage-defender).
 
 ## BOOKS:  
 - "Industrial Network Security", Eric D. Knapp.    
