@@ -19,12 +19,12 @@
 
 ## Core concepts mentioned in the SANS course syllabus:  
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
-- Security policy implementation 
-- Building an ICS Cyber Security Program
+- Security policy implementation -> Chapter 8.
+- Building an ICS Cyber Security Program -> Chapter 8.
 - Starting the Process -> "CSMS initiate program".
 - Frameworks: ISA/IEC 62443, ISO/IEC 27001, NIST CSF
 - Using the NIST CSF
-- Creating ICS Cyber Security Policy
+- Creating ICS Cyber Security Policy -> Chapter 8.
 - Policies, Standards, Guidance, and Procedures -> describe the role of each.
 - Culture and Enforcement 
 - Examples and Sources
