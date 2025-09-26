@@ -2,7 +2,9 @@
 
 **NOTE: The first iteration of the project is currently under development. Some sections are still in an initial planning phase.**  
 
-**This repo is a self-studies reference manual for the GICSP**(_Global Industrial Cyber Security Professional Certification_), where the information has been gathered from a large number of other individuals/guides. Being a reference manual, it points towards various material that I found relevant when studying for the GICSP. It is not an attempt at being an actual course; the aim is to provide a concise overview of study material that multiple credible professionals mention to be of a high relevance. The repo also includes notes regarding topics that I found particularly interesting, and additional ICS/OT related sections that I will continue updating after having achieved the certification.
+**This repo is a self-studies reference manual for the GICSP**(_Global Industrial Cyber Security Professional Certification_), where the information has been gathered from a large number of other individuals/guides. Being a reference manual, it points towards various material that I found relevant when studying for the GICSP. It is not an attempt at being an actual course; the aim is to provide a concise overview of study material that multiple credible professionals mention to be of a high relevance. The repo also includes notes regarding topics that I found particularly interesting, and additional ICS/OT related sections that I will continue updating after having achieved the certification.  
+
+While this repo is intended as a general overview of ICS security, I've added somewhat of a focus on the electrical sector when it comes to the resources. This is due to the sectors core importance for all the other sectors.
   
 *NOTE: This guide is written from the point-of-view of someone with a SysAdmin/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.*  
 
