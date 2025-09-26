@@ -8,6 +8,7 @@
 ## Others:
 - Bra info om vad som inkluderas i det olika lagren, på sida 7 i Purdue.pdf.
 - [Palo Alto, What is the Purdue Model for ICS Security.](https://www.paloaltonetworks.com/cyberpedia/what-is-the-purdue-model-for-ics-security)
+- https://github.com/Jacobbetancourt1/ICS-Security-with-Purdue-Model
 
 
 ## Core concepts mentioned in the SANS course syllabus:  
