@@ -11,3 +11,13 @@ The goal is to understand better both from a theoretical and practical point-of-
 - Use of ICS Killchain and Mitre ICS ATT&CK, to analyze what happened in a structured manner.
 - Use directives from page 142 in 62443-2-1, to establish a CSMS.
 - Project to be built around energy/water/wind sector to learn about scada and since energy is of core importance to all other ICS sectors.
+
+
+
+https://github.com/eva-ics/eva4
+
+https://github.com/cyberchankya/OT
+
+https://github.com/hslatman/awesome-industrial-control-system-security
+
+https://github.com/SecuraBV/OTCAD
