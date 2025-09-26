@@ -31,7 +31,7 @@ In-depth details. Since the material is quite extensive, going through the Quick
 ## YOUTUBE CHANNELS/VIDEOS:  
 - [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
 - [SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.
-- [The Five Critical CyberSec Controls for ICS](https://www.youtube.com/watch?v=Ta7kcirzT8o).
+- [The Five Critical CyberSec Controls for ICS](https://www.youtube.com/watch?v=Ta7kcirzT8o). You can have the [Whitepaper](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls) available while viewing. 
 - [ICS security list curated by industry professionals](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources/blob/master/Videos.csv).    
 ## MITRE ICS ATT&CK Framework
 "_The major architectural focus of ATT&CK for ICS are the systems and functions associated with functional levels 0 – 2 of the Purdue architecture_" - MITRE ATT&CK ® for Industrial Control Systems: Design and Philosophy(Alexander, Otis. Et al. 2020).  
