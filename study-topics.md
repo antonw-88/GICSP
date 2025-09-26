@@ -5,7 +5,8 @@ This section is aimed at providing a concise overview of the material that seems
 The CISA course is very superficial, but good for getting used to potentially new terminology.  
 - [CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)
 - [Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
-- [CISA overview of critical infrastructure sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors). For the exam, it is not required to understand the in-depth differences between the system architectures. Rather, establish a general sense of how they differ. 
+- [CISA overview of critical infrastructure sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors). For the exam, it is not required to understand the in-depth differences between the system architectures. Rather, establish a general sense of how they differ.
+- Install the OT Security Huddle AI chatbot.
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals. Sometimes there are posts about signing up to CTF events or seminars etc.
 
 ## BOOKS & CHEATSHEETS
