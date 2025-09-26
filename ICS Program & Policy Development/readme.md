@@ -22,12 +22,11 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Security policy implementation -> Chapter 8.
 - Building an ICS Cyber Security Program -> Chapter 8.
 - Starting the Process -> "CSMS initiate program".
-- Frameworks: ISA/IEC 62443, ISO/IEC 27001, NIST CSF
+- Frameworks: ISA/IEC 62443, ISO/IEC 27001, NIST CSF, NIST 800-82.
 - Using the NIST CSF
 - Creating ICS Cyber Security Policy -> Chapter 8.
 - Policies, Standards, Guidance, and Procedures -> describe the role of each.
 - Culture and Enforcement 
-- Examples and Sources
-- Exercise: ICS Security Policy Review
 - Industry-specific compliance testing
 - Change management: why it’s critical in ICS.
+- ICS Security Assessments -> Chapter 9.
