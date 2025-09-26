@@ -83,6 +83,6 @@ This section is aimed at providing references to material related to ICS that is
 
 ## Potential additional OT related certifications:
 - [CAP associate certificate program](https://www.isa.org/certification/certificate-programs/cap-associate-certificate-program) - Overview program of OT environments/processes etc.
-- [SANS ICS515(GRID)](https://www.sans.org/cyber-security-courses/ics-visibility-detection-response) - More technically oriented. 
+- [SANS ICS515(GRID)](https://www.sans.org/cyber-security-courses/ics-visibility-detection-response) - More technically oriented than the GICSP. 
 
 ***Note: Anna's Archive is very good for finding text-based resources.***
