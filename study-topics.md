@@ -28,9 +28,10 @@ In-depth details. Since the material is quite extensive, going through the Quick
 - 3-2, Security risk assessment for system design.  
 - 3-3, System security requirements and security levels.  
 
-## YOUTUBE CHANNELS:  
+## YOUTUBE CHANNELS/VIDEOS:  
 - [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
-- [SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.   
+- [SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.
+- [The Five Critical CyberSec Controls for ICS](https://www.youtube.com/watch?v=Ta7kcirzT8o).   
 
 ## MITRE ICS ATT&CK Framework
 "_The major architectural focus of ATT&CK for ICS are the systems and functions associated with functional levels 0 – 2 of the Purdue architecture_" - MITRE ATT&CK ® for Industrial Control Systems: Design and Philosophy(Alexander, Otis. Et al. 2020).  
@@ -38,7 +39,8 @@ In-depth details. Since the material is quite extensive, going through the Quick
 The above document is a very good reference for understanding the structure and motivation of the Mitre ICS ATT&CK framework, but is not that relevant for the GICSP exam. To learn about topics more directly related to the exam objectives, the actual techniques can be referred to; they are listed in the [ICS ATT&CK matrix](https://attack.mitre.org/matrices/ics/). This is a very good resource for reading up on the types of attacks most commonly employed when targeting ICS systems.
 
 ## NERC CIP
-Considering the core importance of the energy sector within societal infrastructure, reading up on the related U.S regulatory standards is probably helpful. Under the "[(CIP) Critical Infrastructure Protection](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)" tab, the cybersecurity reliability standards can be found. For an overview of each standards domain, see for example [this link](https://www.industrialdefender.com/blog/what-is-nerc-cip).
+- Considering the core importance of the energy sector within societal infrastructure, reading up on the related U.S regulatory standards is probably helpful. Under the "[(CIP) Critical Infrastructure Protection](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)" tab, the cybersecurity reliability standards can be found. For an overview of each standards domain, see for example [this link](https://www.industrialdefender.com/blog/what-is-nerc-cip).
+- [The Five Critical ICS CyberSec Controls and the Electrical Sector.](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls-electric-sector)
 
 # ADDITIONAL MATERIAL
 This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
