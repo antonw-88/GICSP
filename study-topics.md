@@ -45,6 +45,7 @@ The above document is a very good reference for understanding the structure and 
 ## NOTABLE RESOURCES
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. Going to these is both interesting technically, and a really nice look into the community. A good break from just standard preparation.
 - For getting started in ICS security, the founder of Dragos - Robert M. Lee - provides an extensive [library of ICS security resources](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) via his webpage.
+- Additional ICS security related repos, can be found [here](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources/blob/master/Git%20Repos.csv).
 
 # ADDITIONAL MATERIAL
 This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
