@@ -28,3 +28,5 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Container Configuration Integrity -> Chapter 4, p.169.
 - Logs in Windows and Linux -> Chapter 4.
 - Embedded device security -> Chapter 4, p.182 & 187.
+- ICS Device Testing -> Chapter 9, p.376.
+
