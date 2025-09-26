@@ -12,6 +12,7 @@
 
 ## Core concepts mentioned in the SANS course syllabus:  
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
+- Risk Management - Chapter 8, p.357.
 - Measuring Cyber Security Risk
 - Risk Approaches and Calculations
 - DR and BC Planning
