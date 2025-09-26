@@ -38,7 +38,7 @@ In-depth details. Since the material is quite extensive, going through the Quick
 The above document is a very good reference for understanding the structure and motivation of the Mitre ICS ATT&CK framework, but is not that relevant for the GICSP exam. To learn about topics more directly related to the exam objectives, the actual techniques can be referred to; they are listed in the [ICS ATT&CK matrix](https://attack.mitre.org/matrices/ics/). This is a very good resource for reading up on the types of attacks most commonly employed when targeting ICS systems.
 
 ## NERC CIP
-Considering the core importance of the energy sector within societal infrastructure, reading up on the related U.S regulatory standards is probably helpful. Under the "[(CIP) Critical Infrastructure Protection](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)" tab, the cybersecurity reliability standards can be found. For a more readable overview, see for example [this link](https://www.industrialdefender.com/blog/what-is-nerc-cip).
+Considering the core importance of the energy sector within societal infrastructure, reading up on the related U.S regulatory standards is probably helpful. Under the "[(CIP) Critical Infrastructure Protection](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)" tab, the cybersecurity reliability standards can be found. For an overview of each standards domain, see for example [this link](https://www.industrialdefender.com/blog/what-is-nerc-cip).
 
 # ADDITIONAL MATERIAL
 This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
