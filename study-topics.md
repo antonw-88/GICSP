@@ -5,8 +5,7 @@ This section is aimed at providing a concise overview of the material that seems
 The CISA course is very superficial, but good for getting used to potentially new terminology.  
 - [CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)
 - [Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
-- [CISA overview of critical infrastructure sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors). For the exam, it is not required to understand the in-depth differences between the system architectures. Rather, establish a general sense of how they differ.
-- [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. Going to these is both interesting technically, and a really nice look into the community. A good break from just standard preparation. 
+- [CISA overview of critical infrastructure sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors). For the exam, it is not required to understand the in-depth differences between the system architectures. Rather, establish a general sense of how they differ. 
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals. Sometimes there are posts about signing up to CTF events or seminars etc.
 
 ## BOOKS & CHEATSHEETS
@@ -31,8 +30,8 @@ In-depth details. Since the material is quite extensive, going through the Quick
 ## YOUTUBE CHANNELS/VIDEOS:  
 - [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
 - [SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.
-- [The Five Critical CyberSec Controls for ICS](https://www.youtube.com/watch?v=Ta7kcirzT8o).   
-
+- [The Five Critical CyberSec Controls for ICS](https://www.youtube.com/watch?v=Ta7kcirzT8o).
+- [ICS security list curated by industry professionals](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources/blob/master/Videos.csv).    
 ## MITRE ICS ATT&CK Framework
 "_The major architectural focus of ATT&CK for ICS are the systems and functions associated with functional levels 0 – 2 of the Purdue architecture_" - MITRE ATT&CK ® for Industrial Control Systems: Design and Philosophy(Alexander, Otis. Et al. 2020).  
   
@@ -41,6 +40,10 @@ The above document is a very good reference for understanding the structure and 
 ## NERC CIP
 - Considering the core importance of the energy sector within societal infrastructure, reading up on the related U.S regulatory standards is probably helpful. Under the "[(CIP) Critical Infrastructure Protection](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)" tab, the cybersecurity reliability standards can be found. For an overview of each standards domain, see for example [this link](https://www.industrialdefender.com/blog/what-is-nerc-cip).
 - [The Five Critical ICS CyberSec Controls and the Electrical Sector.](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls-electric-sector)
+
+## NOTABLE RESOURCES
+- [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. Going to these is both interesting technically, and a really nice look into the community. A good break from just standard preparation.
+- For getting started in ICS security, the founder of Dragos - Robert M. Lee - provides an extensive [library of ICS security resources](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) via his webpage.
 
 # ADDITIONAL MATERIAL
 This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
