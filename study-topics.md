@@ -49,6 +49,7 @@ This section is aimed at providing references to material related to ICS that is
 - [Via scadahacker](https://scadahacker.com/library/), it is possible to find huge amounts of additional resources.
 - The rest of the ISA/IEC 62443 standards.
 - [Adjusting CV](https://supratikpathak.com/blog/ot-cybersecurity-resume-guide/) to focus on topics valued by OT hiring managers.
+- [ISA-95](https://www.isa.org/standards-and-publications/isa-standards/isa-95-standard), focuses on the integration between L3 and L4 in the Purdue model. This is the IT/OT boundary.
 
 ## BOOKS:  
 - "Industrial Network Security", Eric D. Knapp.    
