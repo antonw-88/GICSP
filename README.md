@@ -4,7 +4,7 @@
 
 **This repo is a self-studies reference manual for the GICSP**(_Global Industrial Cyber Security Professional Certification_), where the information has been gathered from a large number of other individuals/guides. Being a reference manual, it points towards various material that I found relevant when studying for the GICSP. It is not an attempt at being an actual course; the aim is to provide a concise overview of study material that multiple credible professionals mention to be of a high relevance. The repo also includes notes regarding topics that I found particularly interesting, and additional ICS/OT related sections that I will continue updating after having achieved the certification.  
 
-While this repo is intended as a general overview of ICS security, I've added somewhat of a focus on gathering resources related to the electrical sector. This is due to the sectors core importance for all the other sectors.
+While this repo is intended as a general overview of ICS security, I've added somewhat of a focus on gathering resources related to the energy/electrical sector. This is due to the sector being of core importance for all the other sectors.
   
 *NOTE: This guide is written from the point-of-view of someone with a SysAdmin/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.*  
 
@@ -40,7 +40,7 @@ While this repo is intended as a general overview of ICS security, I've added so
 
 ## Other Resources
 
-- [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on a case study of the _to-be-decided_ incident.
+- [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on a case study of the _to-be-decided_ incident affecting the energy/electrical sector.
 - [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Links to various lab environments that I found when researching this project.
 - [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for reference indexing.
 - [Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars that I've joined.
