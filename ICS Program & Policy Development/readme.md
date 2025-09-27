@@ -26,7 +26,7 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Using the NIST CSF
 - Creating ICS Cyber Security Policy -> Chapter 8.
 - Policies, Standards, Guidance, and Procedures -> describe the role of each.
-- Culture and Enforcement 
-- Industry-specific compliance testing
-- Change management: why it’s critical in ICS.
+- Culture and Enforcement -> 
+- Industry-specific compliance testing -> 
+- Change management: why it’s critical in ICS -> Chapter 10.
 - ICS Security Assessments -> Chapter 9.
