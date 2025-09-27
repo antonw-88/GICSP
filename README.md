@@ -20,9 +20,9 @@ While this repo is intended as a general overview of ICS security, I've added so
 
 4. [Protocols, Communications, & Compromises](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols) - Describe the basic structures, protocols, and defense of communications within an ICS and summarize how they can be compromised. This includes TCP/IP as well as ICS specific protocols. Additionally, at a basic level, describe the cryptography used to protect communications.  
 
-5. [PERA Level 0 & 1 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-0+1) - Describe level 0 and level 1 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
+5. [Purdue Level 0 & 1 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-0+1) - Describe level 0 and level 1 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
-6. [PERA Level 2 & 3 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-2%2B3) - Describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
+6. [Purdue Level 2 & 3 Technology Overview and Compromise](https://github.com/antonw-88/GICSP/tree/main/Purdue-Model-Level-2%2B3) - Describe level 2 and level 3 devices and technologies and summarize how those devices and technologies are targeted and attacked.  
 
 7. [ICS Program & Policy Development](https://github.com/antonw-88/GICSP/tree/main/ICS%20Program%20%26%20Policy%20Development) - Summarize the steps and best practices used in building a security program and creating enforceable security policies for an ICS.  
 
