@@ -16,7 +16,10 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Measuring Cyber Security Risk -> Chapter 9.
 - Risk Approaches and Calculations -> Chapter 9.
 - DR and BC Planning -> Chapter 11.
-- Incident Response -> Chapter 10(p.433) and 62433-2-1: A.3.4.5.
+- Incident Response
+  - Chapter 10(p.433)
+  - 62433-2-1: A.3.4.5
+  - NERC CIP 008
 - Six Step Process - NIST 800-61.
 - Risk measurement approaches -> Chapter 9.
 - Differences between IT and OT IR processes  -> Chapter 10(p.433) and 62433-2-1: A.3.4.5.
