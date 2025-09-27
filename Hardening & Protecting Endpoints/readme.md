@@ -23,7 +23,8 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Daemons, SystemV, and SystemD -> Chapter 4, p.160.
 - Bastille -> Chapter 4, p.162.
 - Lynis -> 
-- Logging & SIEMS -> Chapter 10.
+- Logging -> Chapter 10.
+- SIEM -> Chapter 10, p.430.
 - Software and Firmware Management -> Chapter 10.
 - Application Runtime and Execution Control -> Chapter 4.
 - Container Configuration Integrity -> Chapter 4, p.169.
