@@ -43,7 +43,7 @@ While this repo is intended as a general overview of ICS security, I've added so
 - [ICS Project](https://github.com/antonw-88/GICSP/tree/main/ICS-project) - Based on a case study of the _to-be-decided_ incident affecting the energy/electrical sector.
 - [Labs](https://github.com/antonw-88/GICSP/tree/main/labs) - Links to various lab environments that I found when researching this project.
 - [Indexing](https://github.com/antonw-88/GICSP/tree/main/indexing-methodology) - Various resources for reference indexing.
-- [Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars that I've joined.
+- [Webinars](https://github.com/antonw-88/GICSP/tree/main/webinars-etc) - Summaries of webinars that I've attended.
 
 ## Information about the Repo
 
