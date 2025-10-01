@@ -31,10 +31,13 @@ When conducting automated testing, this becomes tricky due to the risk of the pr
 - Consider potential circumventory defensive mechanisms. Is there somewhere earlier in the attack path that the attack could be stopped.
 - Consider downtime cost of patch, and potential for service failure due to patching. Risk assessment of patch also costs time.
 - Quantify the cost relative to value for defense; can that vulnerability even be exploited?
-- 
+- System modeling is a long journey. Need to identify and analyze device types; vendors; various environments. The network is the biggest lever and frames almost everything else related to the CyberSec posture.
+- Focus on transition points in the system, where an attacker can enter new areas of the system or gather extensive data from.
+- Ensure a structured method for analyzing assets; allows for more targeted and efficient efforts.
+- How is the environment segmented(that the vulnerable asset exists within). Can we build mitigation around it instead(for example with highly specific firewall or IPS rules).
 
 ### Priortized actions for vulnerability management
-- Which threatactors use techniques that exploit our vulnerabilities; how do these actors behave.
+- Which threat-actors use techniques that exploit our vulnerabilities; how do these actors behave.
 - Which mitigations are most cost effective.
 - Ensure that mitigatory techniques increases defenses in a measurable manner.
 - Focus patching efforts to the most vital points; both specific and transition oriented.   
@@ -55,9 +58,8 @@ Likely early adopters of digital twins:
   - How to reduce the risk for all the stakeholders(including oneself) regardless of environments.
 - CyberSec insurance industry, will help identify if the client is required to implement digital twins 
 
-
 ## Seminar main takeaways:
-1. _What is our crown jewel_ and move from there to identify the possible attack paths.
+1. _What is our crown jewel(s)_ and move from there to identify the possible attack paths.
 2. Conduct targeted and effective risk assessments. Don't just trash around and risk damaging stuff.
 3. Narrow scope of analysis doesn't work, because it's not how an attacker approaches the environment.
 4. Automated scanning tools are headed towards AI agents giving recommendations on risks and mitigations.
