@@ -23,6 +23,13 @@ Both include, for example:
 
 When conducting automated testing, this becomes tricky due to the risk of the production environment. The common way to manage this, is to use test environments. Then after the test environment, the secondary control center can be isolated, the scans can be run, and the repeat on the primary control center. However, for many parts of the environment there will be no full redundancy; requiring reliance on test environments.  
 
+### Vulnerability mitigation
+- Environments contain legacy stuff, mix of technologies, are often very large; just trying to identify vulnerabilities is difficult.
+- An asset inventory to scan for vulnerabilites is vital, but further consideration is necessary; which assets to prioritize for patching etc.
+- A test environment is not a luxury that everyone can afford.
+- Standard vulnerability plans sometimes only focus on the business critical assets, but these can often be reached via low or medium priority assets.
+- Consider potential circumventory defensive mechanisms. Is there somewhere earlier in the attack path that the attack could be stopped.
+
 ## Digital Twins
 
 Digital twins may be used in ICS environments for testing code changes and training operators. However, digital twins for CyberSec purposes provides a new alternative for risk assessment scans:
