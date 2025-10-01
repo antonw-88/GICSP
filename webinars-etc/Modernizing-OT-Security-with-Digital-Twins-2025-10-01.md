@@ -1,4 +1,6 @@
-# [Modernizing OT Security](https://www.sans.org/webcasts/modernizing-ot-security-how-frenos-uses-digital-twin-technology-ai-threat-emulation-transform-security-posture-compliance): How Frenos Uses Digital Twin Technology, AI and Threat Emulation to Transform Security Posture & Compliance
+# Modernizing OT Security: How Frenos Uses Digital Twin Technology, AI and Threat Emulation to Transform Security Posture & Compliance
+https://www.sans.org/webcasts/modernizing-ot-security-how-frenos-uses-digital-twin-technology-ai-threat-emulation-transform-security-posture-compliance
+2025-10-01
 
 ## Intro discussions
 
