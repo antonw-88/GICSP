@@ -29,6 +29,15 @@ When conducting automated testing, this becomes tricky due to the risk of the pr
 - A test environment is not a luxury that everyone can afford.
 - Standard vulnerability plans sometimes only focus on the business critical assets, but these can often be reached via low or medium priority assets.
 - Consider potential circumventory defensive mechanisms. Is there somewhere earlier in the attack path that the attack could be stopped.
+- Consider downtime cost of patch, and potential for service failure due to patching. Risk assessment of patch also costs time.
+- Quantify the cost relative to value for defense; can that vulnerability even be exploited?
+- 
+
+### Priortized actions for vulnerability management
+- Which threatactors use techniques that exploit our vulnerabilities; how do these actors behave.
+- Which mitigations are most cost effective.
+- Ensure that mitigatory techniques increases defenses in a measurable manner.
+- Focus patching efforts to the most vital points; both specific and transition oriented.   
 
 ## Digital Twins
 
@@ -36,6 +45,7 @@ Digital twins may be used in ICS environments for testing code changes and train
 - A data model that replicates the actual environment.
 - Merges all the CyberSec data into this model. Data can be merged from other digital twins.
 - Instead of scanning the actual environment, the digital twin can be scanned. If for example a new patch is available, this can be identified quickly and without potential disruptions.
+- Can find new TTPs, so that a new risk assessment can be made for that asset.
 
 Likely early adopters of digital twins:
 - Entities that are required due to regulatory demands.
@@ -47,7 +57,8 @@ Likely early adopters of digital twins:
 
 
 ## Seminar main takeaways:
-1. Conduct targeted and effective risk assessments. Don't just trash around and risk damaging stuff.
-2. Narrow scope of analysis doesn't work, because it's not how an attacker approaches the environment.
-3. Automated scanning tools are headed towards AI agents giving recommendations on risks and mitigations.
-4. Document everything and apply lessons learned.
+1. _What is our crown jewel_ and move from there to identify the possible attack paths.
+2. Conduct targeted and effective risk assessments. Don't just trash around and risk damaging stuff.
+3. Narrow scope of analysis doesn't work, because it's not how an attacker approaches the environment.
+4. Automated scanning tools are headed towards AI agents giving recommendations on risks and mitigations.
+5. Document everything and apply lessons learned.
