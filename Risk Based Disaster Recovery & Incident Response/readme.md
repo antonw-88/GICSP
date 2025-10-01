@@ -1,5 +1,5 @@
 ## NIST 800-82r3: Guide to Operational Technology(OT) Security
-- Chapter 6 (particularly 6.2.4.5 and 6.4)
+- Chapter 6(particularly 6.2.4.5 and 6.4).
 
 ## NIST 800-61: Incident Response Recommendations and Considerations for Cybersecurity Risk Management
 - IR Lifecycle(p.4).
