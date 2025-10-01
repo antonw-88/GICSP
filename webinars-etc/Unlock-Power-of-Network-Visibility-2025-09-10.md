@@ -49,4 +49,4 @@ https://www.sans.org/webcasts/unlock-power-network-visibility-industrial-environ
 3. Troubleshooting and Root Cause Analysis - network monitoring is not only security relevant, and this can help when arguing for the implementation of it(don't focus only on the direct security aspects).
 4. Allows management of remote access securely.
 5. Get the visibility implemented during the design phase -> XF team communication for this.
-6. Control System and OT asset inventory, witch complementing infrastructure context awareness, is very important.
+6. Control System and OT asset inventory, with complementing infrastructure context awareness, is very important.
