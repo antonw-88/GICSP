@@ -10,9 +10,21 @@ https://www.sans.org/webcasts/modernizing-ot-security-how-frenos-uses-digital-tw
 - Extensive regulations within the OT cybersec space is something relatively new, and will transform the global industry over the coming years.
 - Regulations are created in response to specific events. This may leave a gap for events that have not yet occurred.
 
-### Risk assessments
-- A paper based assessment is less intrusive, but manual labor intensive. Includes for example:
-  - Manual network topology review.
-  - Port and service identification.
-  - Vulnerability review of assets; rulesets; patch level; default account; SNMP; etc).
-- An active assessment applies vendor tools and scripts, but require careful considerations.
+### Risk assessment scans
+A paper based assessment is less intrusive, but manual labor intensive.
+An active assessment applies vendor tools and scripts. Automates polling of data, but requires careful considerations.
+Both include, for example:
+- Network topology review.
+- Port and service identification.
+- Vulnerability review of assets; rulesets; patch level; default account; SNMP; etc.
+- Analysis of wireless network.
+
+When conducting automated testing, this becomes tricky due to the risk of the production environment. The common way to manage this, is to use test environments. Then after the test environment, the secondary control center can be isolated, the scans can be run, and the repeat on the primary control center. However, for many parts of the environment there will be no full redundancy; requiring reliance on test environments.  
+
+### Digital Twins
+  
+Digital twins for CyberSec purposes provides a new alternative for risk assessment scans:
+- A data model that replicates the actual environment.
+- Merges all the CyberSec data into this model.
+- Instead of scanning the actual environment, the digital twin can be scanned. If a new patch is available, this can be identified quickly and without potential disruptions.
+
