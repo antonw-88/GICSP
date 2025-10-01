@@ -13,7 +13,7 @@ https://www.sans.org/webcasts/modernizing-ot-security-how-frenos-uses-digital-tw
 - Consistency, repeatibility and cost, are the main driver for efficiency improvements within automation.
 
 ### Risk assessment scans
-A paper based assessment is less intrusive, but manual labor intensive.
+A paper based assessment is less intrusive, but manual labor intensive.  
 An active assessment applies vendor tools and scripts. Automates polling of data, but requires careful considerations.
 Both include, for example:
 - Network topology review.
@@ -21,7 +21,7 @@ Both include, for example:
 - Vulnerability review of assets; rulesets; patch level; default account; SNMP; etc.
 - Analysis of wireless network.
 
-When conducting automated testing, this becomes tricky due to the risk of the production environment. The common way to manage this, is to use test environments. Then after the test environment, the secondary control center can be isolated, the scans can be run, and the repeat on the primary control center. However, for many parts of the environment there will be no full redundancy; requiring reliance on test environments.  
+When conducting automated testing, this becomes tricky due to the risk of the production environment. The common way to manage this, is to use test environments. Then after the test environment, the secondary control center can be isolated, the scans can be run; then repeat on the primary control center. However, for many parts of the environment there will be no full redundancy; requiring reliance on test environments.  
 
 ### Vulnerability mitigation
 - Environments contain legacy stuff, mix of technologies, are often very large; just trying to identify vulnerabilities is difficult.
@@ -46,7 +46,7 @@ When conducting automated testing, this becomes tricky due to the risk of the pr
 
 Digital twins may be used in ICS environments for testing code changes and training operators. However, digital twins for CyberSec purposes provides a new alternative for risk assessment scans:
 - A data model that replicates the actual environment.
-- Merges all the CyberSec data into this model. Data can be merged from other digital twins.
+- Merges all the CyberSec relevant data into this model. Data can be merged from other digital twins.
 - Instead of scanning the actual environment, the digital twin can be scanned. If for example a new patch is available, this can be identified quickly and without potential disruptions.
 - Can find new TTPs, so that a new risk assessment can be made for that asset.
 
