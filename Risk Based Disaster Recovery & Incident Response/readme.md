@@ -2,7 +2,7 @@
 - Chapter 6 (particularly 6.2.4.5 and 6.4)
 
 ## NIST 800-61: Incident Response Recommendations and Considerations for Cybersecurity Risk Management
-- IT Lifecycle(p.4).
+- IR Lifecycle(p.4).
 - Roles and Responsibilities(p.6).
 - Policies, Processes, Procedures(p.8).
 - Community Profile: Preparation and Lessons Learned(p.11).
