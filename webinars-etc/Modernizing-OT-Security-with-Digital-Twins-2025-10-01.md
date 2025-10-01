@@ -24,11 +24,11 @@ Both include, for example:
 When conducting automated testing, this becomes tricky due to the risk of the production environment. The common way to manage this, is to use test environments. Then after the test environment, the secondary control center can be isolated, the scans can be run, and the repeat on the primary control center. However, for many parts of the environment there will be no full redundancy; requiring reliance on test environments.  
 
 ## Digital Twins
-  
-Digital twins for CyberSec purposes provides a new alternative for risk assessment scans:
+
+Digital twins may be used in ICS environments for testing code changes and training operators. However, digital twins for CyberSec purposes provides a new alternative for risk assessment scans:
 - A data model that replicates the actual environment.
-- Merges all the CyberSec data into this model.
-- Instead of scanning the actual environment, the digital twin can be scanned. If a new patch is available, this can be identified quickly and without potential disruptions.
+- Merges all the CyberSec data into this model. Data can be merged from other digital twins.
+- Instead of scanning the actual environment, the digital twin can be scanned. If for example a new patch is available, this can be identified quickly and without potential disruptions.
 
 Likely early adopters of digital twins:
 - Entities that are required due to regulatory demands.
@@ -38,3 +38,9 @@ Likely early adopters of digital twins:
   - How to reduce the risk for all the stakeholders(including oneself) regardless of environments.
 - CyberSec insurance industry, will help identify if the client is required to implement digital twins 
 
+
+## Seminar main takeaways:
+1. Conduct targeted and effective risk assessments. Don't just trash around and risk damaging stuff.
+2. Narrow scope of analysis doesn't work, because it's not how an attacker approaches the environment.
+3. Automated scanning tools are headed towards AI agents giving recommendations on risks and mitigations.
+4. Document everything and apply lessons learned.
