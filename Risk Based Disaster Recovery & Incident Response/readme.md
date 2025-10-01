@@ -36,3 +36,6 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Differences between IT and OT IR processes:
   - Chapter 10(p.433)
   - 62433-2-1: A.3.4.5.
+
+## Other resources:
+- Cybersecurity and Infrastructure Security Agency [(CISA) Cybersecurity Incident & Vulnerability Response Playbooks](https://www.cisa.gov/sites/default/files/2024-08/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
