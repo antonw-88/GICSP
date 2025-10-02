@@ -1,9 +1,9 @@
-## Mike Holcomb:
-- Part 3
-
-## NIST 800-82:
+## NIST 800-82: Guide to Operational Technology(OT) Security
 
 ## ISA/IEC 62443:
+
+## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
+- [Part 3](https://www.youtube.com/watch?v=WReeJDw-AV4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
 
 ## Protocol Specific References:
 - Profinet
