@@ -1,5 +1,5 @@
 # CORE MATERIAL
-This section is aimed at providing a concise overview of the material that seems the absolutely most relevant/vital for GICSP exam preparation. 
+This section is aimed at providing a concise overview of the material that seems the absolutely most relevant/vital for GICSP exam preparation. As a note: the book "_Sandworm_" by Andy Greenberg is highly recommended. Both for the content itself, but also as a break from highly technical/regulatory/process-oriented reading. 
 
 ## INTRODUCTORY OVERVIEW MATERIAL
 The CISA course is very superficial, but good for getting used to potentially new terminology.  
@@ -63,7 +63,6 @@ This section is aimed at providing references to material related to ICS that is
 
 ## BOOKS:  
 - "Industrial Network Security", Eric D. Knapp.    
-- "Sandworm", Andy Greenberg.
 - "Implementing IEC 62433, a Pragmatic Approach to Cybersecurity", David Gunter.
 - "Industrial Cyber Security Case Studies and Best Practices", Steve Mustard.
 - "Firewall Deployment for SCADA and Process Control Networks: Good Practice Guide".
