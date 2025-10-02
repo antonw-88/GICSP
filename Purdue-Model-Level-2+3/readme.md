@@ -1,11 +1,4 @@
-## Mike Holcomb:
-
-## NIST 800-82r3:
-
-
-## IEC/ISA 62443:
-
-## Others:
+## Various:
 - Purdue.pdf
 - [Palo Alto, What is the Purdue Model for ICS Security.](https://www.paloaltonetworks.com/cyberpedia/what-is-the-purdue-model-for-ics-security)
 - https://github.com/Jacobbetancourt1/ICS-Security-with-Purdue-Model
