@@ -1,5 +1,5 @@
 # Core Material
-This section is aimed at providing a concise overview of the material that seems the absolutely most relevant/vital for GICSP exam preparation.  
+This section is aimed at providing a concise overview of the material that seems to be the most vital for GICSP exam preparation.  
 _Note: doing labs is important when preparing for the exam, and I've gathered some in a [separate section](https://github.com/antonw-88/GICSP/tree/main/labs)._
 
 ## Introductory Overview Material
@@ -31,6 +31,7 @@ In-depth details. Since the material is quite extensive, going through the Quick
 - 3-3, System security requirements and security levels.
 
 # Recommended Material
+This section contains material that seemingly is closely related to the core objectives of the GICSP exam, but that I decided to organize into a separate section in order to keep a clear delineation for the resources.  
 
 ## Youtube Channels/Videos:  
 - [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
