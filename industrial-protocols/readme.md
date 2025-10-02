@@ -1,21 +1,19 @@
-## NIST 800-82: Guide to Operational Technology(OT) Security
-
 ## ISA/IEC 62443:
 
 ## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
 - [Part 3](https://www.youtube.com/watch?v=WReeJDw-AV4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
 
 ## Protocol Specific References:
-- Profinet
-- Modbus, TCP and other modes -> good data in the "Cyber-security in industrial control Systems"-pdf.
-- DNP3
-- CIP
-- OPC UA
-- IEC 61850 / 60870-5-104
-- BACnet
-- Ethernet/IP
-- EtherCAT
-- Profibus DP
+- [Profinet](https://us.profinet.com/resources/white-papers/).
+- [Modbus](https://www.acromag.com/wp-content/uploads/2019/08/White-Paper-Introduction-to-ModbusTCP_765B-.pdf).
+- [DNP3](https://www.acectrl.com/white-papers/dnp3/).
+- [OPC UA](https://opcfoundation.org/wp-content/uploads/2023/05/OPC-UA-Interoperability-For-Industrie4-and-IoT-EN.pdf).
+- [IEC 61850](https://www.gevernova.com/grid-solutions/sites/default/files/resources/products/applications/ur/iec61850_interoperability_and_implementation_get-20025e_150720_r007_lr.pdf).
+- [IEC 60870-5-104](https://library.e.abb.com/public/c86995f2d7c54b7da2d9f8a30276f58a/REX640_iec104prot_2NGA000223_ENb.pdf?x-sign=Hq7DkYPcA+Y4nmjLgKMS7XxVP0EWcfqBlvuQSF7eWGt1eZT5kUkCUhLoiosCeEqm)
+- [BACnet](https://www.ccontrols.com/pdf/BACnetIntroduction.pdf).
+- [Ethernet/IP](https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/enet-wp001_-en-p.pdf).
+- [EtherCAT](https://www.ethercat.org/download/documents/Whitepaper_EtherCAT_and_TSN.pdf).
+- [Profibus DP](https://www.profibus.com/fileadmin/media/downloadsection/PROFIBUS_Systembeschreibung_ENG_web.pdf).
 
 ## Core concepts mentioned in the SANS course syllabus:
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._ 
