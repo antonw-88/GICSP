@@ -1,6 +1,6 @@
 # Core Material
 This section is aimed at providing a concise overview of the material that seems the absolutely most relevant/vital for GICSP exam preparation.  
-Note: doing labs is important when preparing for the exam, and I've gathered some in a [separate section](https://github.com/antonw-88/GICSP/tree/main/labs).
+_Note: doing labs is important when preparing for the exam, and I've gathered some in a [separate section](https://github.com/antonw-88/GICSP/tree/main/labs)._
 
 ## Introductory Overview Material
 The CISA course is very superficial, but good for getting used to potentially new terminology.  
