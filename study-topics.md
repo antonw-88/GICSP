@@ -42,7 +42,8 @@ The above document is a very good reference for understanding the structure and 
 ## ELECTRICAL SECTOR
 - NERC CIP - Considering the core importance of the energy sector within societal infrastructure, reading up on the related U.S regulatory standards is probably helpful. Under the "[(CIP) Critical Infrastructure Protection](https://www.nerc.com/pa/Stand/Pages/ReliabilityStandards.aspx)" tab, the cybersecurity reliability standards can be found. For an overview of each standards domain, see for example [this link](https://www.industrialdefender.com/blog/what-is-nerc-cip).
 - [The Five Critical ICS CyberSec Controls and the Electrical Sector.](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls-electric-sector)
-- [IR 7628 - Guidelines for Smart Grid CyberSec](https://csrc.nist.gov/pubs/ir/7628/r1/final). 
+- [IR 7628 - Guidelines for Smart Grid CyberSec](https://csrc.nist.gov/pubs/ir/7628/r1/final).
+- [Substation Automation insights](https://www.kth.se/social/files/543bacc7f2765447b28bcce2/IEC%2061850%20for%20Substation%20Automation%20-%20AndreaBonetti.pdf). 
 
 ## NOTABLE RESOURCES
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. Going to these is both interesting technically, and a really nice look into the community. A good break from just standard preparation.
