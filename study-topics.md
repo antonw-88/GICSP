@@ -10,7 +10,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals. Sometimes there are posts about signing up to CTF events or seminars etc.
 
 ## BOOKS & CHEATSHEETS
-- "Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT" by Charles J. Brooks & Philip A. Craig, Jr.  
+- "_Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT_" by Charles J. Brooks & Philip A. Craig, Jr.  
 Intended as a study guide for the GICSP exam. Contains 25 practice questions per chapter. Has a seemingly great reputation among ICS Security professionals. Offers a break from the dense reading of NIST and ISA/IEC standards.
 - [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). One frequent GIAC test taker(Hacks4Pancakes) noted: "_Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test_".
 - "_Sandworm_" by Andy Greenberg is highly recommended. Both for the content itself, but also as a break from highly technical/regulatory/process-oriented reading.
