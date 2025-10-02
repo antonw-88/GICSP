@@ -1,9 +1,9 @@
-## NIST 800-82r3:
+## NIST 800-82r3: Guide to Operational Technology(OT) Security
 - Chapter 2.
 - Chapter 5.
 - Appendix.E. 
 
-## Mike Holcomb:
+## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
 - [Part 2](https://www.youtube.com/watch?v=Ue8JjQigv-4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
 - [Part 4](https://www.youtube.com/watch?v=kbiMb_Kgqjs&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=5).
 
