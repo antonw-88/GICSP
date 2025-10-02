@@ -1,21 +1,21 @@
 #### Goal: Understand the overall structure of the IACS CSMS structure laid out in IEC/ISA 2-1, so that can crossreference quickly if needed. The details are seemingly too extensive to memorize in comparison to the value they bring for the knowledge examinated.
 
-## NIST 800-82r3:
+## NIST 800-82r3: Guide to Operational Technology(OT) Security
 - Chapter 3
 
-## NIST 800-61
+## NIST 800-61: Incident Response Recommendations and Considerations for Cybersecurity Risk Management
 - The full publication.
 
-## IEC/ISA 62443-2-1:
+## IEC/ISA 62443-2-1: Establishing an industrial automation and control system security program
 - Figure 1 - good overview of the process.
 - Page 142 onward provides a good detailed overview of how to set up a CSMS for ICS.  
 
-## IEC/ISA 62443-1-1:
+## IEC/ISA 62443-1-1: Terminology, concepts and models
 - Section 6.6
 
-## Mike Holcomb: 
-- [Part 6.](https://www.youtube.com/watch?v=ZuAuFOYhkss&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=6) 
-- [Part 9.](https://www.youtube.com/watch?v=GDPOgu8-7lI&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=9) 
+## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
+- [Part 6](https://www.youtube.com/watch?v=ZuAuFOYhkss&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=6) 
+- [Part 9](https://www.youtube.com/watch?v=GDPOgu8-7lI&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=9) 
 
 ## Core concepts mentioned in the SANS course syllabus:  
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
