@@ -1,9 +1,9 @@
-## NIST 800-82r3:
+## NIST 800-82r3: Guide to Operational Technology(OT) Security
 - 5.3.7.1
 - 6.2
 
-## Mike Holcomb:
-- Part 10.
+## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
+- [Part 10](https://www.youtube.com/watch?v=A-gTRMQpy5w&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=10).
 
 ## Core concepts mentioned in the SANS course syllabus:  
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
