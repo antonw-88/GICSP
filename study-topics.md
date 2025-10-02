@@ -61,6 +61,7 @@ This section is aimed at providing references to material related to ICS that is
 - [Adjusting CV](https://supratikpathak.com/blog/ot-cybersecurity-resume-guide/) to focus on topics valued by OT hiring managers.
 - [ISA-95](https://www.isa.org/standards-and-publications/isa-standards/isa-95-standard), focuses on the integration between L3 and L4 in the Purdue model. These two layers, and the DMZ between them, constitutes the IT/OT boundary.
 - [SANS ICS KillChain](https://www.sans.org/white-papers/webs-deception-using-sans-ics-kill-chain-flip-advantage-defender).
+- [SCADA papers from Australian Control Engineering(ACE)](https://www.acectrl.com/white-papers/).
 
 ## BOOKS:  
 - "Industrial Network Security", Eric D. Knapp.    
