@@ -14,7 +14,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 ## Books
 - "_Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT_" by Charles J. Brooks & Philip A. Craig, Jr.  
 Intended as a study guide for the GICSP exam. Contains 25 practice questions per chapter. Has a seemingly great reputation among ICS Security professionals. Offers a break from the dense reading of NIST and ISA/IEC standards.
-- "_Sandworm_" by Andy Greenberg is highly recommended. Both for the content itself but also as a break from highly technical/regulatory/process-oriented reading. The book provides a very interesting overview of cyber warfare, and frames the more in-depth resources of this reference manual in a clear context; for example: why is ICS security so important, and why are certain controls and processes highlighted.
+- "_Sandworm_" by Andy Greenberg is highly recommended. Both for the content itself but also as a break from highly technical/regulatory/process-oriented reading. It is a very interesting overview of cyber warfare, and provides a clear context that frames the more in-depth resources of this reference manual; for example: why is ICS security so important, and why are certain controls and processes highlighted.
 
 ## NIST 800-X Publications
 In-depth details, with a lot of good references in the Appendix sections etc. _Note: Check for the latest revisions_.    
