@@ -13,7 +13,7 @@ _Note: for someone without an IT background, reading up on the OSI-model and rel
   
 For a summary of each protocol, see the .md files of this folder.
 
-![OT-IT-protocols-SHIV-KATARIA](https://github.com/user-attachments/assets/4e5cf9f2-d675-43a5-a1aa-eb569b722056)
+![OT-IT-protocols-SHIV-KATARIA](https://github.com/user-attachments/assets/4e5cf9f2-d675-43a5-a1aa-eb569b722056)  
 _OSI Layer for IT and OT Protocols - Shiv Kataria_
 
 ## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
