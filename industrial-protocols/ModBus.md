@@ -1,7 +1,7 @@
-## Modbus and Modbus TCP/IP overview
+# Modbus and Modbus TCP/IP overview
 
-### Protocol aspects
-- Application level protocol.
+## Protocol aspects
+- Application level protocol designed for interoperability.
 - Port 502 as default.
 - Low cost development.
 - Minimum hardware requirement to support.
@@ -15,14 +15,19 @@
   - TCP/IP version is simply Modbus with a TCP/IP wrapper(reliability and routing enhancements) with the address and error checksum removed(this functionality exists in the Modbus Application Protocol Header(MBAP)).
   - MBAP is embedded into the data field of a TCP frame("packet").
 - Communicates with up to 247 devices
-- Unlike most other protocols, however, Modbus is used for both command and control and device level communications.
 - Multiple versions: ASCII/RS485/Binary/TCP+IP
 - no authentication or authorization is required to communicate with a Modbus device. The default port that Modbus/TCP uses is 502.
 - CRC checks  
 
-### Security Weaknesses and Strengths
-- How to handle the protocol in a secure manner.
+## Security Weaknesses.
+- No authentication.
+- No authorization.
+- No confidentiality.
+- No integrity checking.
+- No replay protection.
+In summary: if an attacker reaches into a Modbus network segment, it will have full visibility and extensive ability to affect the process.  
 
-### Usecases
+## Purdue Levels
+- Modbus is used for both command and control and device level communications.
 
-### Purdue Levels
+## Usecases
