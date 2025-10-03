@@ -19,7 +19,7 @@ Intended as a study guide for the GICSP exam. Contains 25 practice questions per
 ## MITRE ICS ATT&CK Framework
 "_The major architectural focus of ATT&CK for ICS are the systems and functions associated with functional levels 0 – 2 of the Purdue architecture_" - MITRE ATT&CK ® for Industrial Control Systems: Design and Philosophy(Alexander, Otis. Et al. 2020).  
   
-The above document is a very good reference for understanding the structure and motivation of the Mitre ICS ATT&CK framework, but is not that relevant for the GICSP exam. To learn about topics more directly related to the exam objectives, the actual techniques can be referred to; they are listed in the [ICS ATT&CK matrix](https://attack.mitre.org/matrices/ics/). This is a very good resource for reading up on the types of attacks most commonly employed by attackers when they are targeting ICS systems.
+The above document is a very good reference for understanding the structure and motivation of the Mitre ICS ATT&CK framework, but is not that relevant for the GICSP exam. The actual techniques are listed in the [ICS ATT&CK matrix](https://attack.mitre.org/matrices/ics/). This is a very good resource for reading up on the types of attacks most commonly employed by attackers when they are targeting ICS systems. Note that at the bottom of each technique's page, there are also references.
 
 ## NIST 800-X Publications
 In-depth details, with a lot of good references in the Appendix sections etc. _Note: Check for the latest revisions_.    
