@@ -14,8 +14,6 @@ _Note: for someone without an IT background, reading up on the OSI-model and rel
 A core value of industrial protocols is **determinism**. This guarantees that a packet is sent/received in a finite and predictable amount of time. This relates to how, instead of the CIA model commonly used for IT, OT applies AIC. The **availability** requirement overrides the need for confidentiality, to ensure low-latency control; encryption adds overhead. Depending on where in the Purdue model that the protocol in a certain scenario is operating, considerations can be made for applying encryption(for example between two control centers exchanging supervisory data). The closer to the control of the physical process that one gets, the less focus on standard IT security and the more focus on OT safety. While determinism is a common goal for industrial protocols, they may apply different techniques in order to achieve it. The level of determinism required may also vary(see for example Profinet IR vs Profinet RT). Determinism is of vital importance to ensure process quality, and most importantly **safety**. Safety within ICS refers to the physical process remaining under strict control, to avoid the risk of the physical process having unintended real-world consequences. Such consequences may include a robot's movement hurting a human being; an electrical overload resulting in a fire; a nuclear reactor entering an unstable state. In addition to industrial protocols being designed to support safety, isolated [Safety Instrumented Systems(SIS)](https://github.com/antonw-88/GICSP/tree/main/Safety-Instrumented-Systems-and-Functions) serve as backup systems for safely shutting down physical processes.  
 
 Traditional Ethernet was non-deterministic, but modern versions support deterministic behaviour(referred to as Switched Ethernet). For more on this topic, see the Modbus whitepaper(p.6-7).
-  
-For a summary of each protocol, see the .md files of this folder.
 
 ![OT-IT-protocols-SHIV-KATARIA](https://github.com/user-attachments/assets/4e5cf9f2-d675-43a5-a1aa-eb569b722056)  
 _OSI Layer for IT and OT Protocols - Shiv Kataria_
@@ -58,3 +56,5 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Remote Access  -> chapter 3
 - Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc -> See the lab section.
 - OSI model -> Modbus whitepaper(p.8).
+
+_For a summary of each protocol, see the .md files of this folder._
