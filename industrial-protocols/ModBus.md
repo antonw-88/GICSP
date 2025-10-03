@@ -20,4 +20,9 @@
 - no authentication or authorization is required to communicate with a Modbus device. The default port that Modbus/TCP uses is 502.
 - CRC checks  
 
-### Common usecases
+### Security Weaknesses and Strengths
+- How to handle the protocol in a secure manner.
+
+### Usecases
+
+### Purdue Levels
