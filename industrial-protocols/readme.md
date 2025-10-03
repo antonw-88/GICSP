@@ -27,7 +27,7 @@ _OSI Layer for IT and OT Protocols - Shiv Kataria_
 - [DNP3](https://www.acectrl.com/white-papers/dnp3/).
 - [OPC UA](https://opcfoundation.org/wp-content/uploads/2023/05/OPC-UA-Interoperability-For-Industrie4-and-IoT-EN.pdf).
 - [IEC 61850](https://www.gevernova.com/grid-solutions/sites/default/files/resources/products/applications/ur/iec61850_interoperability_and_implementation_get-20025e_150720_r007_lr.pdf).
-- [IEC 60870-5-104](https://library.e.abb.com/public/c86995f2d7c54b7da2d9f8a30276f58a/REX640_iec104prot_2NGA000223_ENb.pdf?x-sign=Hq7DkYPcA+Y4nmjLgKMS7XxVP0EWcfqBlvuQSF7eWGt1eZT5kUkCUhLoiosCeEqm)
+- [IEC 60870-5-104](https://library.e.abb.com/public/c86995f2d7c54b7da2d9f8a30276f58a/REX640_iec104prot_2NGA000223_ENb.pdf?x-sign=Hq7DkYPcA+Y4nmjLgKMS7XxVP0EWcfqBlvuQSF7eWGt1eZT5kUkCUhLoiosCeEqm).
 - [BACnet](https://www.ccontrols.com/pdf/BACnetIntroduction.pdf).
 - [Ethernet/IP](https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/enet-wp001_-en-p.pdf).
 - [EtherCAT](https://www.ethercat.org/download/documents/Whitepaper_EtherCAT_and_TSN.pdf).
