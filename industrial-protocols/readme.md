@@ -8,13 +8,13 @@ The goal for the exam is to understand common industrial protocols. This underst
 - How to handle the protocol in a secure manner.
 - Use-cases.
 - Related purdue level(s).
-- The goal is not to be able to configure and pratically implement the protocol.
+- The goal is not to be able to configure and pratically implement the protocol.  
 _Note: for someone without an IT background, reading up on the OSI-model and related topics is seemingly necessary._
   
 For a summary of each protocol, see the .md files of this folder.
 
 ![OT-IT-protocols-SHIV-KATARIA](https://github.com/user-attachments/assets/4e5cf9f2-d675-43a5-a1aa-eb569b722056)  
-_OSI Layer for IT and OT Protocols - Shiv Kataria_
+                  _OSI Layer for IT and OT Protocols - Shiv Kataria_
 
 ## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
 - [Part 3](https://www.youtube.com/watch?v=WReeJDw-AV4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
