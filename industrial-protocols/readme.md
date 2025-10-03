@@ -1,8 +1,17 @@
 # Commonly Used Industrial Protocols
-The goal for the exame is to understand common industrial protocols. This understanding includes: names; standard ports; overall functionality; security weaknesses; strengths/benefits; use-cases; purdue level(s) that the protocol is related to; being able to use this information to handle the protocol in a secure manner. The goal is not to be able to configure and pratically implement the protocol. _Note: for someone without and IT background, reading up on the OSI-model and related topics is seemingly necessary._
+The goal for the exam is to understand common industrial protocols. This understanding includes: 
+- Names.
+- OSI layer.
+- Standard ports.
+- Overall protocol structure.
+- Security weaknesses/strengths.
+- How to handle the protocol in a secure manner.
+- Use-cases.
+- Related purdue level(s).
+- The goal is not to be able to configure and pratically implement the protocol.
+_Note: for someone without an IT background, reading up on the OSI-model and related topics is seemingly necessary._
   
 For a summary of each protocol, see the .md files of this folder.
-
 
 ## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
 - [Part 3](https://www.youtube.com/watch?v=WReeJDw-AV4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
