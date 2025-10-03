@@ -33,6 +33,8 @@ _OSI Layer for IT and OT Protocols - Shiv Kataria_
 - [EtherCAT](https://www.ethercat.org/download/documents/Whitepaper_EtherCAT_and_TSN.pdf).
 - [Profibus DP](https://www.profibus.com/fileadmin/media/downloadsection/PROFIBUS_Systembeschreibung_ENG_web.pdf).
 
+**_For a summary of each protocol, see the .md files of this folder._**
+
 ## Core concepts mentioned in the SANS course syllabus:
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._ 
 - Ethernet and TCP/IP  -> chapter 2
@@ -56,5 +58,3 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Remote Access  -> chapter 3
 - Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc -> See the lab section.
 - OSI model -> Modbus whitepaper(p.8).
-
-_For a summary of each protocol, see the .md files of this folder._
