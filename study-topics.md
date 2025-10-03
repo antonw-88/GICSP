@@ -8,7 +8,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - [CISA overview of critical infrastructure sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors). For the exam, it is not required to understand the in-depth differences between the system architectures. Rather, establish a general sense of how they differ.
 - Install the OT Security Huddle AI chatbot.
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals. Sometimes there are posts about signing up to CTF events or seminars etc.
-- [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. Going to these is both interesting technically, and a really nice look into the community. A good break from just standard preparation.
+- [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. They are interesting technically, for gaining insight on contemporary circumstances, and a really nice look into the community itself. A good break from just standard preparation.
 - [PDF about Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
 
 ## Books
