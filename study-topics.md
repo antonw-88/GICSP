@@ -10,6 +10,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals. Sometimes there are posts about signing up to CTF events or seminars etc.
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. They are interesting technically, for gaining insight on contemporary circumstances, and a really nice look into the community itself. A good break from just standard preparation.
 - [PDF about Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
+- [Industrial protocols](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols).
 
 ## Books
 - "_Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT_" by Charles J. Brooks & Philip A. Craig, Jr.  
