@@ -10,6 +10,10 @@ The goal for the exam is to understand common industrial protocols. This underst
 - Related purdue level(s).
 - The goal is not to be able to configure and pratically implement the protocol.  
 _Note: for someone without an IT background, reading up on the OSI-model and related topics is seemingly necessary._
+
+A core value of industrial protocols is **determinism**. This guarantees that a packet is sent/received in a finite and predictable amount of time. While a common goal, different protocols may apply different techniques to achieve it. The level of determinism required may also vary(see for example Profinet IR vs Profinet RT).
+
+Traditional Ethernet was non-deterministic, but modern versions support deterministic behaviour(referred to as Switched Ethernet). For more on this topic, see the Modbus whitepaper(p.6-7).
   
 For a summary of each protocol, see the .md files of this folder.
 
