@@ -16,14 +16,13 @@
   - MBAP is embedded into the data field of a TCP frame("packet").
 - Communicates with up to 247 devices
 - Multiple versions: ASCII/RS485/Binary/TCP+IP
-- no authentication or authorization is required to communicate with a Modbus device. The default port that Modbus/TCP uses is 502.
 - CRC checks  
 
 ## Security Weaknesses.
 - No authentication.
 - No authorization.
 - No confidentiality.
-- No integrity checking.
+- Only basic error detection against unintentional effects. No cryptographic integrity checking.
 - No replay protection.
 
 In summary: if an attacker reaches into a Modbus network segment, it will have full visibility and extensive ability to affect the process.  
