@@ -3,10 +3,10 @@ The goal for the exam is to understand common industrial protocols. This underst
 - Name.
 - OSI layer.
 - Standard ports.
-- Overall protocol structure.
-- Security weaknesses/strengths.
+- Conceptual protocol structure.
+- Security weaknesses.
 - Related purdue level(s).
-- Use-cases.
+- Example use-cases.
 - The goal is not to be able to configure and pratically implement the protocol.  
 
 _Note: for someone without an IT background, reading up on the OSI-model and related topics is seemingly necessary._
@@ -33,6 +33,7 @@ _OSI Layer for IT and OT Protocols - Shiv Kataria_
 - [Ethernet/IP](https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/enet-wp001_-en-p.pdf).
 - [EtherCAT](https://www.ethercat.org/download/documents/Whitepaper_EtherCAT_and_TSN.pdf).
 - [Profibus DP](https://www.profibus.com/fileadmin/media/downloadsection/PROFIBUS_Systembeschreibung_ENG_web.pdf).
+- [MQTT](https://mqtt.org/getting-started/).
 
 **_For a summary of each protocol, see the .md files of this folder._**
 
