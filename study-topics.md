@@ -12,6 +12,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Leading figuers of the OT space are often presenting during these webinars. They are interesting technically, for gaining insight on contemporary circumstances, and a really nice look into the community itself. A good break from just standard preparation.
 - [PDF about Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
 - [Industrial protocols](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols).
+- [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). The person who wrote the GIAC test study guide(Hacks4Pancakes) noted: "_Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test_". 
 
 ## Books
 - "_Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT_" by Charles J. Brooks & Philip A. Craig, Jr.  
@@ -55,7 +56,6 @@ This section contains material that seemingly is closely related to the core obj
 - For getting started in ICS security, the founder of Dragos - Robert M. Lee - provides an extensive [library of ICS security resources](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) via his webpage.
 - Additional ICS security related repos, can be found [here](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources/blob/master/Git%20Repos.csv).
 - The Center for Internet Security has a list of [20 critical security controls](https://www.cisecurity.org/controls/v8), and also a guide for how to [apply these to ICS environments](https://www.cisecurity.org/insights/white-papers/cis-critical-security-controls-v8-1-industrial-control-systems-ics-guide).
-- [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). One frequent GIAC test taker(Hacks4Pancakes) noted: "_Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test_".  
 
 # Additional Material
 This section is aimed at providing references to material related to ICS that is not vital for the exam preparation, but that I want to look into in the future.
