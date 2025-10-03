@@ -24,7 +24,7 @@
 - No authorization.
 - No confidentiality.
 - No integrity checking.
-- No replay protection.
+- No replay protection.  
 In summary: if an attacker reaches into a Modbus network segment, it will have full visibility and extensive ability to affect the process.  
 
 ## Purdue Levels
