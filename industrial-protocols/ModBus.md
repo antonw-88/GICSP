@@ -22,7 +22,7 @@
 - No authentication.
 - No authorization.
 - No confidentiality.
-- Only basic error detection against unintentional effects. No cryptographic integrity checking.
+- Only basic CRC error detection against unintentional effects. No cryptographic integrity checking.
 - No replay protection.
 
 In summary: if an attacker reaches into a Modbus network segment, it will have full visibility and extensive ability to affect the process.  
