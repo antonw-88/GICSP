@@ -58,5 +58,5 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Secure ICS Network Architectures - Defense-in-depth: 800-82 p.3
 - Fieldbus Protocol Families -> chapter 2
 - Remote Access  -> chapter 3
-- Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc -> See the lab section.
+- Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc -> [See the lab section](https://github.com/antonw-88/GICSP/tree/main/labs).
 - OSI model -> Modbus whitepaper(p.8).
