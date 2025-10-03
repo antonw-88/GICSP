@@ -12,7 +12,7 @@ The CISA course is very superficial, but good for getting used to potentially ne
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Leading figuers of the OT space are often presenting during these webinars. They are interesting technically, for gaining insight on contemporary circumstances, and a really nice look into the community itself. A good break from just standard preparation.
 - [PDF about Cyber-security in Industrial Control Systems.](https://engineering.purdue.edu/VAAMI/ICS-modules.pdf)
 - [Industrial protocols](https://github.com/antonw-88/GICSP/tree/main/industrial-protocols).
-- [SANS Cheat Sheet PDFs.](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). The person who wrote the GIAC test study guide(Hacks4Pancakes) noted: "_Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test_". 
+- [SANS Cheat Sheet PDFs](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets). The person who wrote the GIAC test study guide(Hacks4Pancakes) noted: "_Keep those handy SANS cheat sheets for tools, commands, and operating systems they give you in the class, and bring them to the test_". 
 
 ## Books
 - "_Practical Industrial Cyber Security: ICS, Industry 4.0 & IIoT_" by Charles J. Brooks & Philip A. Craig, Jr.  
