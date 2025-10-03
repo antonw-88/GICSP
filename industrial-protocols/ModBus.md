@@ -16,7 +16,6 @@
   - MBAP is embedded into the data field of a TCP frame("packet").
 - Communicates with up to 247 devices
 - Multiple versions: ASCII/RS485/Binary/TCP+IP
-- CRC checks  
 
 ## Security Weaknesses.
 - No authentication.
@@ -30,4 +29,4 @@ In summary: if an attacker reaches into a Modbus network segment, it will have f
 ## Purdue Levels
 - Modbus is used for both command and control and device level communications.
 
-## Usecases
+## Example Usecases
