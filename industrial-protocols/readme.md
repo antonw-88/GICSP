@@ -57,3 +57,4 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Fieldbus Protocol Families -> chapter 2
 - Remote Access  -> chapter 3
 - Identify vulnerabilities in Modbus, DNP3, OPC, Ethernet/IP etc -> See the lab section.
+- OSI model -> Modbus whitepaper(p.8).
