@@ -16,6 +16,11 @@ The CISA course is very superficial, but good for getting used to potentially ne
 Intended as a study guide for the GICSP exam. Contains 25 practice questions per chapter. Has a seemingly great reputation among ICS Security professionals. Offers a break from the dense reading of NIST and ISA/IEC standards.
 - "_Sandworm_" by Andy Greenberg is highly recommended. Both for the content itself but also as a break from highly technical/regulatory/process-oriented reading. It is a very interesting overview of cyber warfare, and provides a clear context that frames the more in-depth resources of this reference manual; for example: why is ICS security so important, and why are certain controls and processes highlighted.
 
+## MITRE ICS ATT&CK Framework
+"_The major architectural focus of ATT&CK for ICS are the systems and functions associated with functional levels 0 – 2 of the Purdue architecture_" - MITRE ATT&CK ® for Industrial Control Systems: Design and Philosophy(Alexander, Otis. Et al. 2020).  
+  
+The above document is a very good reference for understanding the structure and motivation of the Mitre ICS ATT&CK framework, but is not that relevant for the GICSP exam. To learn about topics more directly related to the exam objectives, the actual techniques can be referred to; they are listed in the [ICS ATT&CK matrix](https://attack.mitre.org/matrices/ics/). This is a very good resource for reading up on the types of attacks most commonly employed by attackers when they are targeting ICS systems.
+
 ## NIST 800-X Publications
 In-depth details, with a lot of good references in the Appendix sections etc. _Note: Check for the latest revisions_.    
 - 800-53, Security and Privacy Controls for Information Systems and Organizations.  
@@ -44,11 +49,6 @@ This section contains material that seemingly is closely related to the core obj
 - [The Five Critical ICS CyberSec Controls and the Electrical Sector.](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls-electric-sector)
 - [IR 7628 - Guidelines for Smart Grid CyberSec](https://csrc.nist.gov/pubs/ir/7628/r1/final).
 - [Substation Automation insights](https://www.kth.se/social/files/543bacc7f2765447b28bcce2/IEC%2061850%20for%20Substation%20Automation%20-%20AndreaBonetti.pdf). 
-
-## MITRE ICS ATT&CK Framework
-"_The major architectural focus of ATT&CK for ICS are the systems and functions associated with functional levels 0 – 2 of the Purdue architecture_" - MITRE ATT&CK ® for Industrial Control Systems: Design and Philosophy(Alexander, Otis. Et al. 2020).  
-  
-The above document is a very good reference for understanding the structure and motivation of the Mitre ICS ATT&CK framework, but is not that relevant for the GICSP exam. To learn about topics more directly related to the exam objectives, the actual techniques can be referred to; they are listed in the [ICS ATT&CK matrix](https://attack.mitre.org/matrices/ics/). This is a very good resource for reading up on the types of attacks most commonly employed when targeting ICS systems.
 
 ## Notable Resources
 - For getting started in ICS security, the founder of Dragos - Robert M. Lee - provides an extensive [library of ICS security resources](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/) via his webpage.
