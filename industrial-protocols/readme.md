@@ -1,4 +1,8 @@
-## ISA/IEC 62443:
+# Commonly Used Industrial Protocols
+The goal for the exame is to understand various industrial protocols that exist. Their names; ports; overall functionality; security weaknesses; strengths/benefits; use-cases; purdue level(s) that the protocol is related to; being able to use this information to handle the protocol in a secure manner. The goal is not to be able to configure and pratically implement the protocol. _Note: for someone without and IT background, reading up on the OSI-model and related topics is seemingly necessary._
+  
+For a summary of each protocol, see the .md files of this folder.
+
 
 ## Mike Holcomb: Getting Started with Industrial ICS/OT Cyber Security
 - [Part 3](https://www.youtube.com/watch?v=WReeJDw-AV4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
@@ -20,7 +24,7 @@ _The note "chapter" refers to the "Practical Industrial Cyber Security" book._
 - Ethernet and TCP/IP  -> chapter 2
 - Ethernet Concepts  -> chapter 2
 - TCP/IP Concepts  -> chapter 2
-- Network Hardning -> Chapter 4, p.189.
+- Network Hardening -> Chapter 4, p.189.
 - ICS Protocols over TCP/IP  -> chapter 2
 - Wireshark and ICS Protocols  -> chapter 2
 - Attacks on Networks -> chapter 3
