@@ -6,6 +6,7 @@ _Note: doing labs is important when preparing for the exam, and I've gathered so
 The CISA course is very superficial, but good for getting used to potentially new terminology.  
 - [CISA ICS Virtual Learning Portal.](https://www.cisa.gov/resources-tools/training/ics-virtual-learning-portal)
 - [CISA overview of critical infrastructure sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors). For the exam, it is not required to understand the in-depth differences between the system architectures. Rather, establish a general sense of how they differ.
+- [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).
 - Install the OT Security Huddle AI chatbot.
 - On LinkedIn there are a lot of good posts from various individuals. Add for example Mike Holcomb, Robert M. Lee, Shiv Kataria and via their reposts you will find more interesting individuals. Sometimes there are posts about signing up to CTF events or seminars etc.
 - [SANS ICS Webinars.](https://www.sans.org/webcasts) Click the "Focus Area" button and check "ICS Security". Industry leaders are presenting during these webinars. They are interesting technically, for gaining insight on contemporary circumstances, and a really nice look into the community itself. A good break from just standard preparation.
@@ -39,8 +40,7 @@ In-depth details. Since the material is quite extensive, going through the Quick
 # Recommended Material
 This section contains material that seemingly is closely related to the core objectives of the GICSP exam, but that I decided to organize into a separate section in order to keep a clear delineation for the resources.  
 
-## Youtube Channels/Videos:  
-- [Getting Started in ICS/OT Cyber Security with Mike Holcomb](https://www.youtube.com/watch?v=CCIrntyqe64&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g).  
+## Youtube Channels/Videos:    
 - [SANS ICS Security Channel](https://www.youtube.com/@SANSICSSecurity/videos). Search for "ics410" for topics directly related to GICSP.
 - [The Five Critical CyberSec Controls for ICS](https://www.youtube.com/watch?v=Ta7kcirzT8o). You can have the [Whitepaper](https://www.sans.org/white-papers/five-ics-cybersecurity-critical-controls) available while viewing. 
 - [ICS security list curated by industry professionals](https://github.com/Ka0sKl0wN/ICS-Security-Study-Resources/blob/master/Videos.csv). 
