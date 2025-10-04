@@ -1,5 +1,5 @@
 # Commonly Used Industrial Protocols
-The goal for the exam is to understand common industrial protocols. This understanding includes: 
+The goal of this section is to understand common industrial protocols. This understanding includes: 
 - Name.
 - OSI layer.
 - Standard ports.
