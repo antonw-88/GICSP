@@ -38,8 +38,6 @@ Note that some of the protocol links will download/open the PDF directly. The su
 - [Profibus DP](https://www.profibus.com/fileadmin/media/downloadsection/PROFIBUS_Systembeschreibung_ENG_web.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Profibus.md).
 - [MQTT](https://mqtt.org/getting-started/) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/MQTT.md).
 
-**_For a summary of each protocol, see the .md files of this folder._**
-
 ## Core concepts mentioned in the SANS course syllabus:
 _The note "chapter" refers to the "Practical Industrial Cyber Security" book._ 
 - Ethernet and TCP/IP  -> chapter 2
