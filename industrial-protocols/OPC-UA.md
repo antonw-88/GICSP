@@ -28,8 +28,3 @@ Focuses on integration/monitoring/data-exchange of various OT related systems, n
 ## Example Usecases
 - M2M
 - Machine to Cloud
-
-#  
-#UA - platform independent service-oriented architecture  
-#Another important UA feature is its ability to use structures and models, so 
-#The OPC server supports almost any ICS protocol imaginable, including Modbus, DNP3, ICCP, and Foundation Fieldbus.  
