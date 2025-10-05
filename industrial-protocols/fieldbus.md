@@ -1,3 +1,17 @@
+# Fieldbus overview
+
+## Protocol aspects
+- 
+
+## Security Weaknesses.
+- 
+
+## Purdue Levels
+- 
+
+## Example Usecases
+- 
+
 generic term and not a protocol.  
 #It replaces centralized control networks with distributed control networks  
 #Bi-directional – This means it is a duplex port; the data can be transmitted in two directions at the same time.  
