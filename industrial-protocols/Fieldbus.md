@@ -1,16 +1,5 @@
 # Fieldbus overview
-
-## Protocol aspects
-- 
-
-## Security Weaknesses.
-- 
-
-## Purdue Levels
-- 
-
-## Example Usecases
-- 
+ 
 
 generic term and not a protocol.  
 #It replaces centralized control networks with distributed control networks  
