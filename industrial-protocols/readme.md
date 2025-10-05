@@ -24,18 +24,18 @@ _OSI Layer for IT and OT Protocols - Shiv Kataria_
 
 ## Protocol Specific References:
 Note that some of the links will download/open the PDF directly.
-- [Profinet](https://us.profinet.com/resources/white-papers/) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Profinet.md).
-- [Modbus](https://www.acromag.com/wp-content/uploads/2019/08/White-Paper-Introduction-to-ModbusTCP_765B-.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/ModBus.md).
-- [DNP3](https://www.acectrl.com/white-papers/dnp3/) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/DNP3.md).
-- [ICCP](https://scadahacker.com/library/Documents/ICS_Vulnerabilities/EPRI%20-%20ICCP%20Protocol%20-%20Threats%20to%20Data%20Security%20and%20Potential%20Solutions.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/ICCP.md).
-- [OPC UA](https://opcfoundation.org/wp-content/uploads/2023/05/OPC-UA-Interoperability-For-Industrie4-and-IoT-EN.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/OPC-UA.md).
-- [IEC 61850](https://www.gevernova.com/grid-solutions/sites/default/files/resources/products/applications/ur/iec61850_interoperability_and_implementation_get-20025e_150720_r007_lr.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/IEC-61850.md).
-- [IEC 60870-5-104](https://library.e.abb.com/public/c86995f2d7c54b7da2d9f8a30276f58a/REX640_iec104prot_2NGA000223_ENb.pdf?x-sign=Hq7DkYPcA+Y4nmjLgKMS7XxVP0EWcfqBlvuQSF7eWGt1eZT5kUkCUhLoiosCeEqm) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/IEC-60870-5-104.md).
-- [BACnet](https://www.ccontrols.com/pdf/BACnetIntroduction.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/BACnet.md).
-- [Ethernet/IP](https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/enet-wp001_-en-p.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Ethernet-IP.md).
-- [EtherCAT](https://www.ethercat.org/download/documents/Whitepaper_EtherCAT_and_TSN.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/EtherCAT.md).
-- [Profibus DP](https://www.profibus.com/fileadmin/media/downloadsection/PROFIBUS_Systembeschreibung_ENG_web.pdf) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Profibus.md).
-- [MQTT](https://mqtt.org/getting-started/) and [Summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/MQTT.md).
+- [Profinet](https://us.profinet.com/resources/white-papers/) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Profinet.md).
+- [Modbus](https://www.acromag.com/wp-content/uploads/2019/08/White-Paper-Introduction-to-ModbusTCP_765B-.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/ModBus.md).
+- [DNP3](https://www.acectrl.com/white-papers/dnp3/) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/DNP3.md).
+- [ICCP](https://scadahacker.com/library/Documents/ICS_Vulnerabilities/EPRI%20-%20ICCP%20Protocol%20-%20Threats%20to%20Data%20Security%20and%20Potential%20Solutions.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/ICCP.md).
+- [OPC UA](https://opcfoundation.org/wp-content/uploads/2023/05/OPC-UA-Interoperability-For-Industrie4-and-IoT-EN.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/OPC-UA.md).
+- [IEC 61850](https://www.gevernova.com/grid-solutions/sites/default/files/resources/products/applications/ur/iec61850_interoperability_and_implementation_get-20025e_150720_r007_lr.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/IEC-61850.md).
+- [IEC 60870-5-104](https://library.e.abb.com/public/c86995f2d7c54b7da2d9f8a30276f58a/REX640_iec104prot_2NGA000223_ENb.pdf?x-sign=Hq7DkYPcA+Y4nmjLgKMS7XxVP0EWcfqBlvuQSF7eWGt1eZT5kUkCUhLoiosCeEqm) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/IEC-60870-5-104.md).
+- [BACnet](https://www.ccontrols.com/pdf/BACnetIntroduction.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/BACnet.md).
+- [Ethernet/IP](https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/enet-wp001_-en-p.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Ethernet-IP.md).
+- [EtherCAT](https://www.ethercat.org/download/documents/Whitepaper_EtherCAT_and_TSN.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/EtherCAT.md).
+- [Profibus DP](https://www.profibus.com/fileadmin/media/downloadsection/PROFIBUS_Systembeschreibung_ENG_web.pdf) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/Profibus.md).
+- [MQTT](https://mqtt.org/getting-started/) and [summary](https://github.com/antonw-88/GICSP/blob/main/industrial-protocols/MQTT.md).
 
 **_For a summary of each protocol, see the .md files of this folder._**
 
