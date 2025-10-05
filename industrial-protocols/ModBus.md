@@ -12,7 +12,7 @@
   - Servers return response to individual queries, but not to broadcast queries.
   - Client query consists of: server/broadcast address; function code; data; error checking field.
   - Server response consists of: client address; field confirming function; return data; error checking field. In case of error, server returns an exception.
-  - TCP/IP version is simply Modbus with a TCP/IP wrapper(reliability and routing enhancements) with the address and error checksum removed(this functionality exists in the Modbus Application Protocol Header(MBAP)).
+  - TCP/IP version is simply Modbus with the address and error checksum removed, and then added to the the Modbus Application Protocol Header(MBAP).
   - MBAP is embedded into the data field of a TCP frame("packet").
 - Communicates with up to 247 devices
 - Multiple versions: ASCII/RS485/Binary/TCP+IP
