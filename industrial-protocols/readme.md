@@ -23,7 +23,7 @@ _OSI Layer for IT and OT Protocols - Shiv Kataria_
 - [Part 3](https://www.youtube.com/watch?v=WReeJDw-AV4&list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&index=3).
 
 ## Protocol Specific References:
-Note that some links will download/open the PDF directly.
+Note that some of the links will download/open the PDF directly.
 - [Profinet](https://us.profinet.com/resources/white-papers/).
 - [Modbus](https://www.acromag.com/wp-content/uploads/2019/08/White-Paper-Introduction-to-ModbusTCP_765B-.pdf).
 - [DNP3](https://www.acectrl.com/white-papers/dnp3/).
