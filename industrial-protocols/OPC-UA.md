@@ -1,16 +1,26 @@
 # OPC UA overview
 
-## Protocol aspects
+## Protocol Aspects
+- Non-proprietary/platform independent.
+- Backwards compatible with OPC.
+- Can choose between Pub/Sub and client/server models.
+- Can be sent over MQTT instead of for example TCP or UDP.
 - 
 
-## Security Weaknesses.
-- 
+## Security Weaknesses/Strenghts.
+- Strengths:
+  - Application and user authorization.
+  - Signed transfers.
+  - Encrypted transfers.
+  - Audit functionality.
+  - User can choose which security mechanisms to activate.
 
 ## Purdue Levels
-- 
+- 1-3
 
 ## Example Usecases
-- 
+- M2M
+- Machine to Cloud
 
 #OPC does not represent a network protocol in the traditional sense, but rather a capability to support the interfacing and interconnection with disparate vendor technologies.  
 #UA - platform independent service-oriented architecture  
