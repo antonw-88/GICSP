@@ -21,6 +21,10 @@ It is designed specifically for real-time SupervisoryControlAndDataAcquisition(S
 - Authentication via the "Associate" operation.
 - No confidentiality.
 - No authorization.
+- No integrity.
+- Unexpected traffic can easily be detected due to the strictly organized object model and session management.
+
+The security limitations become problematic since ICCP often travels over a WAN. However, they can be mitigated by tunneling the traffic via a VPN. ICCP is not a level 1/2 protocol, and therefore is not as affected by the encryption/integrity/authorization overhead as actual control protocols.
 
 ## Purdue Levels
 - Core level is 3.
