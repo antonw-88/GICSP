@@ -29,7 +29,7 @@ The security limitations become problematic since ICCP often travels over a WAN.
 ## Purdue Levels
 - Core level is 3.
 - Transfers over CC A's 3.5 < WAN > CC B's 3.5.
-- May interconnect with 4 & 5 for business data and overview related reasons, but not for control related reasons. For example sending data to an extra historian. 
+- May interconnect with 4 & 5 for business data and overview related reasons, but not for control related reasons. For example sending data to an extra historian in L4. 
 
 ## Example Usecases
 - 
