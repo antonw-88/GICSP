@@ -1,5 +1,5 @@
 # Inter Control Center Communications Protocol(ICCP) overview
-Intended to provide control centers with a means to exchange SupervisoryControlAndDataAcquisition(SCADA)/EnergyManagementSystem(EMS) data between themselves. This includes control centers from different providers that need to coordinate with each other to ensure the stability of the grid. 
+It is designed specifically for real-time SupervisoryControlAndDataAcquisition(SCADA)/EnergyManagementSystem(EMS) data exchange between ISO (Independent System Operator) control centers, power pools, regional control centers, transmission utilities, distribution utilities, and generation facilities over LAN and WAN.    
 
 ## Protocol aspects
 - OSI layers 5(ACSE)/6(ASN.1)/7(TASE.2)
@@ -29,6 +29,3 @@ Intended to provide control centers with a means to exchange SupervisoryControlA
 
 ## Example Usecases
 - 
-
-It is designed specifically for real-time data exchange between ISO (Independent System Operator) control centers, power pools, regional control centers, transmission utilities, distribution utilities, and generation facilities over LAN and WAN.  
-Clear text, but secure ICCP exists.  
