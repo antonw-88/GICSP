@@ -1,7 +1,7 @@
 # Commonly Used Industrial Protocols
 The goal of this section is to understand common industrial protocols. This understanding includes: 
 - Name.
-- OSI layer.
+- OSI layer.*   
 - Standard ports.
 - Conceptual protocol structure.
 - Security weaknesses.
@@ -9,6 +9,7 @@ The goal of this section is to understand common industrial protocols. This unde
 - Example use-cases.
 - The goal is not to be able to configure and pratically implement the protocol.  
 
+*The layer(s) specified are the ones that the protocol itself controls. ICCP for example has direct control over 5-7, and relies on supporting protocols for handling the 1-4 mechanics.  
 _Note: for someone without an IT background, reading up on the OSI-model and related topics is seemingly necessary._
 
 ## Commonalities between Industrial Protocols
