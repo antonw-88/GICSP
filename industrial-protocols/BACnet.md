@@ -27,6 +27,7 @@ Security features exist via the BACnet/SC version:
 - Authentication: TLS certificates.
 - Confidentiality: TLS certificates.
 - Integrity: TLS certificates.
+
 However, BACnet/SC is unevenly implemented by different vendors(affecting interoperability).
 
 ## Main Purdue Levels
