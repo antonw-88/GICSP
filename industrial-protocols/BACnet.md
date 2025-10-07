@@ -1,7 +1,8 @@
 # BACnet overview
-Building Automation Control Network.
+Building Automation Control Network. Read up on "Building Management Systems" to understand what kind of circumstances this includes.
 
 ## Protocol aspects
+- Mainly well known for HVAC applications, but can be applied for a multitude of building automation purposes.
 - Object oriented model where every BACnet device contains a device object that defines certain device information.
 - Application services model, where services are formal requests that one BACnet device sends to another BACnet device to ask it to do something.
   - Object access (read, write, create, delete).
@@ -15,7 +16,6 @@ Building Automation Control Network.
   - Scheduling.
   - Alarm & Event Management.
   - Device & Network Management.
-- Mainly well known for HVAC applications, but can be applied for a multitude of building automation purposes.
 
 ## Security Weaknesses.
 - No default authentication.
