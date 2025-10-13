@@ -5,8 +5,8 @@
 **This repo is a self-studies reference manual for the GICSP**(_Global Industrial Cyber Security Professional Certification_). It is not an attempt at being an actual course; the aim is to provide a concise overview of study material that multiple credible professionals mention to be of a high relevance. The repo also includes webinar summaries, links to labs, and an ICS project. 
   
 *NOTE: This guide is written from the point-of-view of someone with a SysAdmin/InfoSec/Networking background. This may affect its relevance for individuals with other backgrounds.*  
-**_NOTE2: Keep in mind that I'm not an OT professional. While I have written down some descriptions(for example for OT protocols), don't assume complete correctness of these descriptions. Verify yourself._**
-**_NOTE3: After first iteration has been completed, this repo will be open for push requests. If you see something that should be improved, please do so._**
+**_NOTE2: Keep in mind that I'm not an OT professional. While I have written down some descriptions(for example for OT protocols), don't assume complete correctness of these descriptions. Verify yourself._**  
+**_NOTE3: After the first iteration has been completed, this repo will be open for push requests. If you see something that should be improved, please do so._**
 
 ## Reference Manual Overview
 
